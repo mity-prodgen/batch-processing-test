@@ -1,0 +1,52 @@
+{
+  "model": "gemini-3.8-flash",
+  "variants": {
+    "thinking_level LOW (what the harness used)": {
+      "accepted": true,
+      "requests_ok": 20,
+      "error": null,
+      "thinking_tokens_total": 844,
+      "answer_tokens_total": 20,
+      "billed_output_per_request": 43.2,
+      "requests_with_zero_thinking": 7,
+      "matches_dataset_label": 17
+    },
+    "no thinking_config (model default)": {
+      "accepted": true,
+      "requests_ok": 20,
+      "error": null,
+      "thinking_tokens_total": 3934,
+      "answer_tokens_total": 19,
+      "billed_output_per_request": 197.7,
+      "requests_with_zero_thinking": 0,
+      "matches_dataset_label": 17
+    },
+    "thinking_level MINIMAL": {
+      "accepted": false,
+      "requests_ok": 0,
+      "error": "ClientError(\"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Thinking level MINIMAL is not supported for this model. Please retry with other thinking level.', 'status': 'INVALID_ARGUMENT'}}\")",
+      "thinking_tokens_total": 0,
+      "answer_tokens_total": 0,
+      "billed_output_per_request": null,
+      "requests_with_zero_thinking": 0,
+      "matches_dataset_label": 0
+    },
+    "thinking_budget 0 (off)": {
+      "accepted": true,
+      "requests_ok": 20,
+      "error": null,
+      "thinking_tokens_total": 737,
+      "answer_tokens_total": 19,
+      "billed_output_per_request": 37.8,
+      "requests_with_zero_thinking": 6,
+      "matches_dataset_label": 17
+    }
+  },
+  "batch_job": {
+    "provider_create_time": "2026-11-11 21:44:49.120836+00:00",
+    "provider_start_time": "None",
+    "provider_end_time": "2026-11-11 21:47:39.581515+00:00",
+    "harness_submitted_at": "2026-11-11T21:44:49+00:00",
+    "harness_completed_at": "2026-11-11T21:47:39+00:00"
+  }
+}

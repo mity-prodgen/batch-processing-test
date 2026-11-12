@@ -109,8 +109,14 @@ Things to know before quoting the numbers:
   by construction. The measured results are token counts, absolute cost per
   provider, turnaround time, and failed/expired requests.
 - Billed output includes reasoning tokens. OpenAI runs with `reasoning_effort: none`.
-  Gemini 3.x Flash cannot disable thinking, so it runs at `thinking_level: LOW` and
+  Gemini runs at `thinking_level: LOW`, the lowest level Google documents for
+  `gemini-3.8-flash` (the docs list low, medium and high, with no off setting), and
   its output count is mostly thinking tokens; the detail table shows how many.
+  `gemini_thinking_probe.py` tests lower settings on 20 tickets
+  (`results/gemini_thinking_probe.json`): `MINIMAL` is rejected with a 400, and
+  `thinking_budget: 0` is accepted but the model still thinks (about 38 billed
+  output tokens per request versus 43 at LOW). The model default (medium) used
+  about 198 per request.
 - Gemini's price is a promotional rate valid through 2026-12-31 (see `prices.yaml`).
 - Prices were last checked on 2026-11-11. Re-check the source URLs before publishing.
 - Sampling is left at each provider's default (current models and SDKs reject or
