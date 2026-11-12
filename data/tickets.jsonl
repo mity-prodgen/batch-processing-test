@@ -1,0 +1,1000 @@
+{"id": "t-0001", "text": "Hi, My invoice for September shows $19 but I downgraded to Team weeks ago. Thanks.", "label": "billing"}
+{"id": "t-0002", "text": "Do you offer a discount for non-profits or students? Appreciate any help!", "label": "general"}
+{"id": "t-0003", "text": "My account was locked after too many login attempts. Can you unlock it? This is really frustrating.", "label": "account"}
+{"id": "t-0004", "text": "Hi, Do you offer a discount for non-profits or students? Please help.", "label": "general"}
+{"id": "t-0005", "text": "The promo code didn't apply at checkout and I paid full price ($49).", "label": "billing"}
+{"id": "t-0006", "text": "Hey team, Do you offer a discount for non-profits or students? Appreciate any help!", "label": "general"}
+{"id": "t-0007", "text": "My account was locked after too many login attempts. Can you unlock it? Thanks.", "label": "account"}
+{"id": "t-0008", "text": "I have a feature suggestion: let us pin favourite items to the top.", "label": "general"}
+{"id": "t-0009", "text": "Hello, There's a charge of $249.99 from you on my statement that I don't recognise.", "label": "billing"}
+{"id": "t-0010", "text": "The promo code didn't apply at checkout and I paid full price ($249.99).", "label": "billing"}
+{"id": "t-0011", "text": "Hey team, Please change the email address on my account, I no longer have access to the old one. Please help.", "label": "account"}
+{"id": "t-0012", "text": "Good morning. Dark mode makes the text unreadable in the mobile app on my iPhone 15.", "label": "technical"}
+{"id": "t-0013", "text": "Good morning. How do I add a second admin user to our Enterprise team?", "label": "account"}
+{"id": "t-0014", "text": "Dark mode makes the text unreadable in the API on my iPad. Thanks.", "label": "technical"}
+{"id": "t-0015", "text": "Good morning. How do I update the credit card on file before the next renewal in March? Thanks.", "label": "billing"}
+{"id": "t-0016", "text": "Order #864491 was supposed to arrive 2 days ago and tracking hasn't updated.", "label": "shipping"}
+{"id": "t-0017", "text": "Hi, I'd like to return order #392075. How do I get a return label?", "label": "shipping"}
+{"id": "t-0018", "text": "Hi, I'd like to return order #609231. How do I get a return label? Appreciate any help!", "label": "shipping"}
+{"id": "t-0019", "text": "Good morning. There's a charge of $9.99 from you on my statement that I don't recognise.", "label": "billing"}
+{"id": "t-0020", "text": "Good morning. I see Error 500 in Chrome but it works fine in a private window.", "label": "technical"}
+{"id": "t-0021", "text": "Hi, My invoice for November shows $249.99 but I downgraded to Starter weeks ago.", "label": "billing"}
+{"id": "t-0022", "text": "Hi, Do you have a partner or affiliate programme? Please help.", "label": "general"}
+{"id": "t-0023", "text": "Hi, UPS says my package was delivered but I never received it. Order #204837. Please help.", "label": "shipping"}
+{"id": "t-0024", "text": "Dark mode makes the text unreadable in the smart thermostat on my MacBook Air. Please help.", "label": "technical"}
+{"id": "t-0025", "text": "Hi, Can I switch from monthly to annual billing on the Team plan and get the discount? Please help.", "label": "billing"}
+{"id": "t-0026", "text": "Hello, Is there a public roadmap? I'd love to know if an offline mode is planned.", "label": "general"}
+{"id": "t-0027", "text": "Part of order #710805 is missing from the box. Appreciate any help!", "label": "shipping"}
+{"id": "t-0028", "text": "URGENT: The integration with our calendar broke and events are now duplicated.", "label": "technical"}
+{"id": "t-0029", "text": "Hello, After the latest update the desktop client is extremely slow in Edge.", "label": "technical"}
+{"id": "t-0030", "text": "Hi, I was charged $249.99 twice this month for the Starter plan. Can you refund the duplicate? Appreciate any help!", "label": "billing"}
+{"id": "t-0031", "text": "I can't log in. The password reset email never arrives. Please help.", "label": "account"}
+{"id": "t-0032", "text": "I see 'Something went wrong' in Firefox but it works fine in a private window. Appreciate any help!", "label": "technical"}
+{"id": "t-0033", "text": "Hey team, Do you have a partner or affiliate programme?", "label": "general"}
+{"id": "t-0034", "text": "URGENT: I'd like to export my personal data under GDPR.", "label": "account"}
+{"id": "t-0035", "text": "Hey team, What's the difference between the Team plan and the one below it? This is really frustrating.", "label": "general"}
+{"id": "t-0036", "text": "Hey team, Can you upgrade order #763686 to express delivery? I need it within 7 days.", "label": "shipping"}
+{"id": "t-0037", "text": "Good morning. I keep getting error code E-1042 when I try to export a report from the browser extension. Appreciate any help!", "label": "technical"}
+{"id": "t-0038", "text": "Good morning. Is there a public roadmap? I'd love to know if an offline mode is planned.", "label": "general"}
+{"id": "t-0039", "text": "Good morning. Is the API compatible with Linux desktop?", "label": "general"}
+{"id": "t-0040", "text": "Hello, DHL says my package was delivered but I never received it. Order #561239. Thanks.", "label": "shipping"}
+{"id": "t-0041", "text": "How do I delete my account and all associated data? Appreciate any help!", "label": "account"}
+{"id": "t-0042", "text": "URGENT: Order #829308 was supposed to arrive 7 days ago and tracking hasn't updated. This is really frustrating.", "label": "shipping"}
+{"id": "t-0043", "text": "My payment keeps getting declined even though the card works everywhere else. Appreciate any help!", "label": "billing"}
+{"id": "t-0044", "text": "I can't log in. The password reset email never arrives. Appreciate any help!", "label": "account"}
+{"id": "t-0045", "text": "Hello, The standing desk won't connect to Wi-Fi after the firmware update. Appreciate any help!", "label": "technical"}
+{"id": "t-0046", "text": "I'd like to export my personal data under GDPR.", "label": "account"}
+{"id": "t-0047", "text": "Hello, Search returns no results in the API even for items I can see in the list. Please advise ASAP.", "label": "technical"}
+{"id": "t-0048", "text": "URGENT: I see Error 500 in Firefox but it works fine in a private window. Appreciate any help!", "label": "technical"}
+{"id": "t-0049", "text": "I see Error 500 in Firefox but it works fine in a private window. Please advise ASAP.", "label": "technical"}
+{"id": "t-0050", "text": "Hey team, Is the wireless headphones compatible with Galaxy S24? This is really frustrating.", "label": "general"}
+{"id": "t-0051", "text": "Hey team, Notifications stopped working on my Galaxy S24 since July. Thanks.", "label": "technical"}
+{"id": "t-0052", "text": "Can I switch from monthly to annual billing on the Business plan and get the discount? This is really frustrating.", "label": "billing"}
+{"id": "t-0053", "text": "Good morning. The smart thermostat won't connect to Wi-Fi after the firmware update. Thanks.", "label": "technical"}
+{"id": "t-0054", "text": "Hey team, My parcel has been stuck at DHL customs for 2 days. This is really frustrating.", "label": "shipping"}
+{"id": "t-0055", "text": "Hi, Where can I find documentation for getting started with the espresso machine?", "label": "general"}
+{"id": "t-0056", "text": "Hello, I see a timeout error in Safari but it works fine in a private window.", "label": "technical"}
+{"id": "t-0057", "text": "Notifications stopped working on my MacBook Air since May. This is really frustrating.", "label": "technical"}
+{"id": "t-0058", "text": "My invoice for March shows $29.00 but I downgraded to Enterprise weeks ago. Appreciate any help!", "label": "billing"}
+{"id": "t-0059", "text": "URGENT: FedEx says my package was delivered but I never received it. Order #360247. Thanks.", "label": "shipping"}
+{"id": "t-0060", "text": "What's the difference between the Business plan and the one below it? Thanks.", "label": "general"}
+{"id": "t-0061", "text": "Good morning. I see a timeout error in Chrome but it works fine in a private window. Please help.", "label": "technical"}
+{"id": "t-0062", "text": "Hi, We were billed for 12 seats on Team but only have 8 users. Please correct the invoice. Appreciate any help!", "label": "billing"}
+{"id": "t-0063", "text": "Hello, How do I update the credit card on file before the next renewal in January? This is really frustrating.", "label": "billing"}
+{"id": "t-0064", "text": "Hey team, I requested a refund of $120 7 days ago and it still hasn't shown up on my statement. Please help.", "label": "billing"}
+{"id": "t-0065", "text": "Good morning. There's a charge of $120 from you on my statement that I don't recognise. Please help.", "label": "billing"}
+{"id": "t-0066", "text": "I keep getting 'Something went wrong' when I try to export a report from the fitness tracker. Please advise ASAP.", "label": "technical"}
+{"id": "t-0067", "text": "Do you ship to Austin, and how long does delivery take? Appreciate any help!", "label": "shipping"}
+{"id": "t-0068", "text": "I have a feature suggestion: let us pin favourite items to the top. Thanks.", "label": "general"}
+{"id": "t-0069", "text": "How do I delete my account and all associated data? Please help.", "label": "account"}
+{"id": "t-0070", "text": "Hello, Where can I find documentation for getting started with the mobile app? Appreciate any help!", "label": "general"}
+{"id": "t-0071", "text": "Hello, USPS says my package was delivered but I never received it. Order #243139. Appreciate any help!", "label": "shipping"}
+{"id": "t-0072", "text": "Hey team, I need to transfer ownership of our Team workspace to a colleague. Appreciate any help!", "label": "account"}
+{"id": "t-0073", "text": "URGENT: I'd like to return order #880879. How do I get a return label? Appreciate any help!", "label": "shipping"}
+{"id": "t-0074", "text": "The standing desk crashes every time I open the settings page on my iPad. Appreciate any help!", "label": "technical"}
+{"id": "t-0075", "text": "URGENT: Dark mode makes the text unreadable in the web dashboard on my MacBook Air. Please advise ASAP.", "label": "technical"}
+{"id": "t-0076", "text": "My parcel has been stuck at DHL customs for 2 days. This is really frustrating.", "label": "shipping"}
+{"id": "t-0077", "text": "URGENT: After the latest update the browser extension is extremely slow in Firefox.", "label": "technical"}
+{"id": "t-0078", "text": "Hello, Dark mode makes the text unreadable in the desktop client on my iPad. This is really frustrating.", "label": "technical"}
+{"id": "t-0079", "text": "URGENT: I'd like to export my personal data under GDPR. Please help.", "label": "account"}
+{"id": "t-0080", "text": "I received the wrong item in order #410244. Appreciate any help!", "label": "shipping"}
+{"id": "t-0081", "text": "Hi, I need to transfer ownership of our Enterprise workspace to a colleague. Thanks.", "label": "account"}
+{"id": "t-0082", "text": "Is there a public roadmap? I'd love to know if an offline mode is planned. Please help.", "label": "general"}
+{"id": "t-0083", "text": "Hello, I lost my phone and can't get past two-factor authentication. This is really frustrating.", "label": "account"}
+{"id": "t-0084", "text": "Someone logged into my account from Leeds and it wasn't me. Please help.", "label": "account"}
+{"id": "t-0085", "text": "Good morning. Just wanted to say your support team was fantastic last week.", "label": "general"}
+{"id": "t-0086", "text": "What are your customer support hours over the holidays?", "label": "general"}
+{"id": "t-0087", "text": "URGENT: There's a charge of $9.99 from you on my statement that I don't recognise.", "label": "billing"}
+{"id": "t-0088", "text": "Do you ship to Denver, and how long does delivery take? Please advise ASAP.", "label": "shipping"}
+{"id": "t-0089", "text": "Can someone from sales give us a demo next week?", "label": "general"}
+{"id": "t-0090", "text": "I lost my phone and can't get past two-factor authentication. Please help.", "label": "account"}
+{"id": "t-0091", "text": "The file upload fails with a blank white screen for anything over 10 MB.", "label": "technical"}
+{"id": "t-0092", "text": "Can you merge my two accounts? I accidentally registered twice. This is really frustrating.", "label": "account"}
+{"id": "t-0093", "text": "URGENT: I have a feature suggestion: let us pin favourite items to the top. Appreciate any help!", "label": "general"}
+{"id": "t-0094", "text": "Hey team, We were billed for 12 seats on Business but only have 8 users. Please correct the invoice. Appreciate any help!", "label": "billing"}
+{"id": "t-0095", "text": "Hi, Are you hiring? Where can I send my CV? Appreciate any help!", "label": "general"}
+{"id": "t-0096", "text": "Hey team, I received the wrong item in order #797416.", "label": "shipping"}
+{"id": "t-0097", "text": "My web dashboard arrived with a cracked casing. Order #951201. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0098", "text": "Hi, My invoice for May shows $249.99 but I downgraded to Team weeks ago.", "label": "billing"}
+{"id": "t-0099", "text": "Part of order #986209 is missing from the box. Please help.", "label": "shipping"}
+{"id": "t-0100", "text": "URGENT: We were billed for 12 seats on Team but only have 8 users. Please correct the invoice.", "label": "billing"}
+{"id": "t-0101", "text": "Hey team, Notifications stopped working on my Pixel 9 since July.", "label": "technical"}
+{"id": "t-0102", "text": "Good morning. How do I update the credit card on file before the next renewal in July? Appreciate any help!", "label": "billing"}
+{"id": "t-0103", "text": "Hello, I signed up with the wrong username. Can it be changed?", "label": "account"}
+{"id": "t-0104", "text": "The file upload fails with 'Something went wrong' for anything over 10 MB.", "label": "technical"}
+{"id": "t-0105", "text": "The tracking number for order #144357 doesn't work on the FedEx site. This is really frustrating.", "label": "shipping"}
+{"id": "t-0106", "text": "Good morning. Why did my card get billed $49 after I cancelled my subscription? Please advise ASAP.", "label": "billing"}
+{"id": "t-0107", "text": "Hi, Can I switch from monthly to annual billing on the Starter plan and get the discount? Please advise ASAP.", "label": "billing"}
+{"id": "t-0108", "text": "Dark mode makes the text unreadable in the web dashboard on my iPad. Thanks.", "label": "technical"}
+{"id": "t-0109", "text": "Good morning. My payment keeps getting declined even though the card works everywhere else. Please advise ASAP.", "label": "billing"}
+{"id": "t-0110", "text": "Hello, Please change the email address on my account, I no longer have access to the old one. This is really frustrating.", "label": "account"}
+{"id": "t-0111", "text": "Good morning. Order #930281 was supposed to arrive 5 days ago and tracking hasn't updated. Thanks.", "label": "shipping"}
+{"id": "t-0112", "text": "The file upload fails with a timeout error for anything over 10 MB. Please advise ASAP.", "label": "technical"}
+{"id": "t-0113", "text": "Hey team, Why did my card get billed $79.50 after I cancelled my subscription?", "label": "billing"}
+{"id": "t-0114", "text": "URGENT: Are you hiring? Where can I send my CV? Please advise ASAP.", "label": "general"}
+{"id": "t-0115", "text": "Hey team, After the latest update the espresso machine is extremely slow in Firefox. This is really frustrating.", "label": "technical"}
+{"id": "t-0116", "text": "URGENT: I see error code E-1042 in Chrome but it works fine in a private window.", "label": "technical"}
+{"id": "t-0117", "text": "Good morning. After the latest update the desktop client is extremely slow in Chrome. Please help.", "label": "technical"}
+{"id": "t-0118", "text": "Hello, I'd like to return order #561999. How do I get a return label? Appreciate any help!", "label": "shipping"}
+{"id": "t-0119", "text": "Do you have a partner or affiliate programme?", "label": "general"}
+{"id": "t-0120", "text": "URGENT: I can't log in. The password reset email never arrives.", "label": "account"}
+{"id": "t-0121", "text": "Hey team, My parcel has been stuck at DHL customs for 7 days.", "label": "shipping"}
+{"id": "t-0122", "text": "Hello, The mobile app crashes every time I open the settings page on my Galaxy S24. Thanks.", "label": "technical"}
+{"id": "t-0123", "text": "Good morning. The espresso machine won't connect to Wi-Fi after the firmware update.", "label": "technical"}
+{"id": "t-0124", "text": "Hey team, I was charged $79.50 twice this month for the Enterprise plan. Can you refund the duplicate? Thanks.", "label": "billing"}
+{"id": "t-0125", "text": "Are you hiring? Where can I send my CV? Appreciate any help!", "label": "general"}
+{"id": "t-0126", "text": "My parcel has been stuck at UPS customs for 5 days. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0127", "text": "Sync has been stuck at 0% for 5 days on my Linux desktop. This is really frustrating.", "label": "technical"}
+{"id": "t-0128", "text": "The promo code didn't apply at checkout and I paid full price ($9.99). Thanks.", "label": "billing"}
+{"id": "t-0129", "text": "URGENT: How do I add a second admin user to our Starter team? Please advise ASAP.", "label": "account"}
+{"id": "t-0130", "text": "Hello, Sync has been stuck at 0% for 10 days on my MacBook Air. Please advise ASAP.", "label": "technical"}
+{"id": "t-0131", "text": "My payment keeps getting declined even though the card works everywhere else. Please advise ASAP.", "label": "billing"}
+{"id": "t-0132", "text": "Is there a public roadmap? I'd love to know if an offline mode is planned.", "label": "general"}
+{"id": "t-0133", "text": "Good morning. Is there a public roadmap? I'd love to know if an offline mode is planned. Please advise ASAP.", "label": "general"}
+{"id": "t-0134", "text": "Please change the email address on my account, I no longer have access to the old one.", "label": "account"}
+{"id": "t-0135", "text": "Hi, I'd like to return order #827691. How do I get a return label?", "label": "shipping"}
+{"id": "t-0136", "text": "Hello, The integration with our calendar broke and events are now duplicated. Please help.", "label": "technical"}
+{"id": "t-0137", "text": "Hey team, The file upload fails with a timeout error for anything over 10 MB. This is really frustrating.", "label": "technical"}
+{"id": "t-0138", "text": "What's the difference between the Enterprise plan and the one below it?", "label": "general"}
+{"id": "t-0139", "text": "URGENT: I lost my phone and can't get past two-factor authentication.", "label": "account"}
+{"id": "t-0140", "text": "Hello, My invoice for May shows $29.00 but I downgraded to Pro weeks ago. Thanks.", "label": "billing"}
+{"id": "t-0141", "text": "What's the difference between the Pro plan and the one below it?", "label": "general"}
+{"id": "t-0142", "text": "Hi, Can someone from sales give us a demo next week? Appreciate any help!", "label": "general"}
+{"id": "t-0143", "text": "Good morning. Where can I find documentation for getting started with the mobile app?", "label": "general"}
+{"id": "t-0144", "text": "Hey team, Can I switch from monthly to annual billing on the Business plan and get the discount? Appreciate any help!", "label": "billing"}
+{"id": "t-0145", "text": "Sync has been stuck at 0% for 2 days on my MacBook Air.", "label": "technical"}
+{"id": "t-0146", "text": "Good morning. I lost my phone and can't get past two-factor authentication. This is really frustrating.", "label": "account"}
+{"id": "t-0147", "text": "Order #470037 was supposed to arrive 2 days ago and tracking hasn't updated. Please help.", "label": "shipping"}
+{"id": "t-0148", "text": "Hey team, The tracking number for order #483545 doesn't work on the UPS site.", "label": "shipping"}
+{"id": "t-0149", "text": "Hello, Part of order #572230 is missing from the box.", "label": "shipping"}
+{"id": "t-0150", "text": "The integration with our calendar broke and events are now duplicated.", "label": "technical"}
+{"id": "t-0151", "text": "Hey team, How do I update the credit card on file before the next renewal in September?", "label": "billing"}
+{"id": "t-0152", "text": "Hey team, Order #597960 was supposed to arrive 5 days ago and tracking hasn't updated. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0153", "text": "I need a VAT invoice for my May payment of $29.00. This is really frustrating.", "label": "billing"}
+{"id": "t-0154", "text": "Good morning. The espresso machine crashes every time I open the settings page on my Pixel 9. Please advise ASAP.", "label": "technical"}
+{"id": "t-0155", "text": "Hi, My desktop client arrived with a cracked casing. Order #840058. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0156", "text": "Hello, My parcel has been stuck at Royal Mail customs for 3 days. This is really frustrating.", "label": "shipping"}
+{"id": "t-0157", "text": "Hey team, Search returns no results in the API even for items I can see in the list. This is really frustrating.", "label": "technical"}
+{"id": "t-0158", "text": "Hello, I lost my phone and can't get past two-factor authentication.", "label": "account"}
+{"id": "t-0159", "text": "Hey team, I requested a refund of $19 3 days ago and it still hasn't shown up on my statement. This is really frustrating.", "label": "billing"}
+{"id": "t-0160", "text": "The promo code didn't apply at checkout and I paid full price ($79.50).", "label": "billing"}
+{"id": "t-0161", "text": "Good morning. I signed up with the wrong username. Can it be changed?", "label": "account"}
+{"id": "t-0162", "text": "Hey team, Do you offer a discount for non-profits or students? Please help.", "label": "general"}
+{"id": "t-0163", "text": "Is there a public roadmap? I'd love to know if an offline mode is planned. This is really frustrating.", "label": "general"}
+{"id": "t-0164", "text": "Can you merge my two accounts? I accidentally registered twice. Please help.", "label": "account"}
+{"id": "t-0165", "text": "My account was locked after too many login attempts. Can you unlock it? Please help.", "label": "account"}
+{"id": "t-0166", "text": "Good morning. I signed up with the wrong username. Can it be changed? Thanks.", "label": "account"}
+{"id": "t-0167", "text": "Hi, The integration with our calendar broke and events are now duplicated.", "label": "technical"}
+{"id": "t-0168", "text": "Good morning. The smart thermostat crashes every time I open the settings page on my Galaxy S24.", "label": "technical"}
+{"id": "t-0169", "text": "Hi, Do you offer a discount for non-profits or students?", "label": "general"}
+{"id": "t-0170", "text": "Why did my card get billed $120 after I cancelled my subscription? Appreciate any help!", "label": "billing"}
+{"id": "t-0171", "text": "Hey team, Search returns no results in the mobile app even for items I can see in the list.", "label": "technical"}
+{"id": "t-0172", "text": "Hello, Are you hiring? Where can I send my CV? Thanks.", "label": "general"}
+{"id": "t-0173", "text": "URGENT: Just wanted to say your support team was fantastic last week. Please help.", "label": "general"}
+{"id": "t-0174", "text": "Hey team, Someone logged into my account from Leeds and it wasn't me. Appreciate any help!", "label": "account"}
+{"id": "t-0175", "text": "Good morning. My desktop client arrived with a cracked casing. Order #415344.", "label": "shipping"}
+{"id": "t-0176", "text": "Good morning. What are your customer support hours over the holidays? Please advise ASAP.", "label": "general"}
+{"id": "t-0177", "text": "Hi, We were billed for 12 seats on Pro but only have 8 users. Please correct the invoice. This is really frustrating.", "label": "billing"}
+{"id": "t-0178", "text": "URGENT: After the latest update the smart thermostat is extremely slow in Edge. Thanks.", "label": "technical"}
+{"id": "t-0179", "text": "I have a feature suggestion: let us pin favourite items to the top. This is really frustrating.", "label": "general"}
+{"id": "t-0180", "text": "URGENT: I signed up with the wrong username. Can it be changed? Please help.", "label": "account"}
+{"id": "t-0181", "text": "Good morning. Notifications stopped working on my iPad since September. This is really frustrating.", "label": "technical"}
+{"id": "t-0182", "text": "Part of order #161585 is missing from the box.", "label": "shipping"}
+{"id": "t-0183", "text": "I received the wrong item in order #661762. Appreciate any help!", "label": "shipping"}
+{"id": "t-0184", "text": "URGENT: The file upload fails with a timeout error for anything over 10 MB. This is really frustrating.", "label": "technical"}
+{"id": "t-0185", "text": "Good morning. Are you hiring? Where can I send my CV?", "label": "general"}
+{"id": "t-0186", "text": "Good morning. How do I update the credit card on file before the next renewal in September? Please help.", "label": "billing"}
+{"id": "t-0187", "text": "URGENT: Why did my card get billed $79.50 after I cancelled my subscription?", "label": "billing"}
+{"id": "t-0188", "text": "Hey team, Please change the email address on my account, I no longer have access to the old one.", "label": "account"}
+{"id": "t-0189", "text": "Good morning. My payment keeps getting declined even though the card works everywhere else. Thanks.", "label": "billing"}
+{"id": "t-0190", "text": "How do I delete my account and all associated data?", "label": "account"}
+{"id": "t-0191", "text": "Good morning. My account was locked after too many login attempts. Can you unlock it? Please advise ASAP.", "label": "account"}
+{"id": "t-0192", "text": "I signed up with the wrong username. Can it be changed? Please advise ASAP.", "label": "account"}
+{"id": "t-0193", "text": "The tracking number for order #818605 doesn't work on the UPS site.", "label": "shipping"}
+{"id": "t-0194", "text": "URGENT: I see a timeout error in Safari but it works fine in a private window. Please advise ASAP.", "label": "technical"}
+{"id": "t-0195", "text": "Hey team, I'd like to return order #310608. How do I get a return label?", "label": "shipping"}
+{"id": "t-0196", "text": "Hey team, The tracking number for order #956156 doesn't work on the USPS site.", "label": "shipping"}
+{"id": "t-0197", "text": "Hello, I have a feature suggestion: let us pin favourite items to the top.", "label": "general"}
+{"id": "t-0198", "text": "Good morning. I'd like to return order #177558. How do I get a return label? Appreciate any help!", "label": "shipping"}
+{"id": "t-0199", "text": "Hey team, Can someone from sales give us a demo next week?", "label": "general"}
+{"id": "t-0200", "text": "Hi, Where can I find documentation for getting started with the mobile app? Thanks.", "label": "general"}
+{"id": "t-0201", "text": "URGENT: I received the wrong item in order #209627.", "label": "shipping"}
+{"id": "t-0202", "text": "Hey team, My payment keeps getting declined even though the card works everywhere else.", "label": "billing"}
+{"id": "t-0203", "text": "Hi, Do you offer a discount for non-profits or students? This is really frustrating.", "label": "general"}
+{"id": "t-0204", "text": "What are your customer support hours over the holidays? Please advise ASAP.", "label": "general"}
+{"id": "t-0205", "text": "Can you merge my two accounts? I accidentally registered twice. Please advise ASAP.", "label": "account"}
+{"id": "t-0206", "text": "Hello, How do I delete my account and all associated data?", "label": "account"}
+{"id": "t-0207", "text": "Search returns no results in the smart thermostat even for items I can see in the list.", "label": "technical"}
+{"id": "t-0208", "text": "URGENT: Can I change the delivery address for order #243167? I'm moving to Austin. This is really frustrating.", "label": "shipping"}
+{"id": "t-0209", "text": "Hello, Order #406278 was supposed to arrive 7 days ago and tracking hasn't updated. Thanks.", "label": "shipping"}
+{"id": "t-0210", "text": "Hey team, Are you hiring? Where can I send my CV?", "label": "general"}
+{"id": "t-0211", "text": "Good morning. FedEx says my package was delivered but I never received it. Order #465509.", "label": "shipping"}
+{"id": "t-0212", "text": "Hi, After the latest update the API is extremely slow in Edge.", "label": "technical"}
+{"id": "t-0213", "text": "Where can I find documentation for getting started with the smart thermostat?", "label": "general"}
+{"id": "t-0214", "text": "URGENT: Can I change the delivery address for order #968726? I'm moving to Portland. This is really frustrating.", "label": "shipping"}
+{"id": "t-0215", "text": "Hello, The integration with our calendar broke and events are now duplicated. Please advise ASAP.", "label": "technical"}
+{"id": "t-0216", "text": "URGENT: UPS says my package was delivered but I never received it. Order #475623. Thanks.", "label": "shipping"}
+{"id": "t-0217", "text": "Hey team, I'd like to return order #693643. How do I get a return label?", "label": "shipping"}
+{"id": "t-0218", "text": "Hello, Why did my card get billed $9.99 after I cancelled my subscription?", "label": "billing"}
+{"id": "t-0219", "text": "URGENT: How do I delete my account and all associated data?", "label": "account"}
+{"id": "t-0220", "text": "Hey team, I was charged $49 twice this month for the Pro plan. Can you refund the duplicate?", "label": "billing"}
+{"id": "t-0221", "text": "URGENT: My desktop client arrived with a cracked casing. Order #413791.", "label": "shipping"}
+{"id": "t-0222", "text": "URGENT: Sync has been stuck at 0% for 2 days on my iPad. This is really frustrating.", "label": "technical"}
+{"id": "t-0223", "text": "Notifications stopped working on my iPad since July. Thanks.", "label": "technical"}
+{"id": "t-0224", "text": "URGENT: Why did my card get billed $49 after I cancelled my subscription? Appreciate any help!", "label": "billing"}
+{"id": "t-0225", "text": "Part of order #771652 is missing from the box. Please help.", "label": "shipping"}
+{"id": "t-0226", "text": "We were billed for 12 seats on Starter but only have 8 users. Please correct the invoice. Please help.", "label": "billing"}
+{"id": "t-0227", "text": "My parcel has been stuck at UPS customs for 2 days.", "label": "shipping"}
+{"id": "t-0228", "text": "The promo code didn't apply at checkout and I paid full price ($19).", "label": "billing"}
+{"id": "t-0229", "text": "Good morning. I can't log in. The password reset email never arrives.", "label": "account"}
+{"id": "t-0230", "text": "Hi, I can't log in. The password reset email never arrives.", "label": "account"}
+{"id": "t-0231", "text": "Hello, Do you ship to Leeds, and how long does delivery take?", "label": "shipping"}
+{"id": "t-0232", "text": "Hello, I have a feature suggestion: let us pin favourite items to the top. Please help.", "label": "general"}
+{"id": "t-0233", "text": "Hi, Can you merge my two accounts? I accidentally registered twice. This is really frustrating.", "label": "account"}
+{"id": "t-0234", "text": "Hey team, How do I delete my account and all associated data?", "label": "account"}
+{"id": "t-0235", "text": "How do I add a second admin user to our Business team?", "label": "account"}
+{"id": "t-0236", "text": "I signed up with the wrong username. Can it be changed? Appreciate any help!", "label": "account"}
+{"id": "t-0237", "text": "Hey team, I requested a refund of $9.99 7 days ago and it still hasn't shown up on my statement. Please advise ASAP.", "label": "billing"}
+{"id": "t-0238", "text": "Hey team, I'd like to return order #571404. How do I get a return label? Appreciate any help!", "label": "shipping"}
+{"id": "t-0239", "text": "Hello, Why did my card get billed $249.99 after I cancelled my subscription?", "label": "billing"}
+{"id": "t-0240", "text": "Notifications stopped working on my Pixel 9 since September.", "label": "technical"}
+{"id": "t-0241", "text": "Order #227352 was supposed to arrive 10 days ago and tracking hasn't updated. Thanks.", "label": "shipping"}
+{"id": "t-0242", "text": "Good morning. Dark mode makes the text unreadable in the API on my Galaxy S24.", "label": "technical"}
+{"id": "t-0243", "text": "URGENT: I requested a refund of $9.99 7 days ago and it still hasn't shown up on my statement.", "label": "billing"}
+{"id": "t-0244", "text": "Hello, I'd like to export my personal data under GDPR. This is really frustrating.", "label": "account"}
+{"id": "t-0245", "text": "Hi, Part of order #935922 is missing from the box.", "label": "shipping"}
+{"id": "t-0246", "text": "Hi, Do you ship to Leeds, and how long does delivery take?", "label": "shipping"}
+{"id": "t-0247", "text": "Hey team, The fitness tracker crashes every time I open the settings page on my Pixel 9.", "label": "technical"}
+{"id": "t-0248", "text": "Just wanted to say your support team was fantastic last week. This is really frustrating.", "label": "general"}
+{"id": "t-0249", "text": "Why did my card get billed $19 after I cancelled my subscription? Please advise ASAP.", "label": "billing"}
+{"id": "t-0250", "text": "Good morning. We were billed for 12 seats on Business but only have 8 users. Please correct the invoice. Please advise ASAP.", "label": "billing"}
+{"id": "t-0251", "text": "Notifications stopped working on my Pixel 9 since July.", "label": "technical"}
+{"id": "t-0252", "text": "Good morning. My invoice for September shows $249.99 but I downgraded to Business weeks ago.", "label": "billing"}
+{"id": "t-0253", "text": "How do I delete my account and all associated data? Please advise ASAP.", "label": "account"}
+{"id": "t-0254", "text": "URGENT: I signed up with the wrong username. Can it be changed?", "label": "account"}
+{"id": "t-0255", "text": "Hey team, UPS says my package was delivered but I never received it. Order #209812.", "label": "shipping"}
+{"id": "t-0256", "text": "URGENT: My desktop client arrived with a cracked casing. Order #785386.", "label": "shipping"}
+{"id": "t-0257", "text": "My invoice for November shows $19 but I downgraded to Team weeks ago. Appreciate any help!", "label": "billing"}
+{"id": "t-0258", "text": "Good morning. What's the difference between the Business plan and the one below it? Thanks.", "label": "general"}
+{"id": "t-0259", "text": "Hello, My payment keeps getting declined even though the card works everywhere else.", "label": "billing"}
+{"id": "t-0260", "text": "Hi, Where can I find documentation for getting started with the wireless headphones? Please help.", "label": "general"}
+{"id": "t-0261", "text": "Hi, What's the difference between the Pro plan and the one below it?", "label": "general"}
+{"id": "t-0262", "text": "Order #513982 was supposed to arrive 14 days ago and tracking hasn't updated.", "label": "shipping"}
+{"id": "t-0263", "text": "My parcel has been stuck at UPS customs for 3 days. Please help.", "label": "shipping"}
+{"id": "t-0264", "text": "URGENT: Can you merge my two accounts? I accidentally registered twice.", "label": "account"}
+{"id": "t-0265", "text": "Hey team, I received the wrong item in order #923914. Appreciate any help!", "label": "shipping"}
+{"id": "t-0266", "text": "Good morning. I received the wrong item in order #426053.", "label": "shipping"}
+{"id": "t-0267", "text": "Hi, I keep getting error code E-1042 when I try to export a report from the desktop client. This is really frustrating.", "label": "technical"}
+{"id": "t-0268", "text": "URGENT: Notifications stopped working on my Linux desktop since September.", "label": "technical"}
+{"id": "t-0269", "text": "Good morning. I lost my phone and can't get past two-factor authentication. Please advise ASAP.", "label": "account"}
+{"id": "t-0270", "text": "Hi, Can you merge my two accounts? I accidentally registered twice. Thanks.", "label": "account"}
+{"id": "t-0271", "text": "I see a 403 Forbidden message in Chrome but it works fine in a private window. Thanks.", "label": "technical"}
+{"id": "t-0272", "text": "Hi, My account was locked after too many login attempts. Can you unlock it? This is really frustrating.", "label": "account"}
+{"id": "t-0273", "text": "Hello, My account was locked after too many login attempts. Can you unlock it?", "label": "account"}
+{"id": "t-0274", "text": "Can I change the delivery address for order #413305? I'm moving to Portland. Thanks.", "label": "shipping"}
+{"id": "t-0275", "text": "URGENT: I requested a refund of $120 5 days ago and it still hasn't shown up on my statement. Appreciate any help!", "label": "billing"}
+{"id": "t-0276", "text": "Why did my card get billed $249.99 after I cancelled my subscription? Please help.", "label": "billing"}
+{"id": "t-0277", "text": "Hey team, I need a VAT invoice for my November payment of $120. Thanks.", "label": "billing"}
+{"id": "t-0278", "text": "Hey team, After the latest update the espresso machine is extremely slow in Firefox. Appreciate any help!", "label": "technical"}
+{"id": "t-0279", "text": "URGENT: My parcel has been stuck at FedEx customs for 3 days. Appreciate any help!", "label": "shipping"}
+{"id": "t-0280", "text": "Order #299834 was supposed to arrive 2 days ago and tracking hasn't updated. Thanks.", "label": "shipping"}
+{"id": "t-0281", "text": "Good morning. Notifications stopped working on my Windows 11 laptop since March. Please advise ASAP.", "label": "technical"}
+{"id": "t-0282", "text": "Hi, My desktop client arrived with a cracked casing. Order #335217.", "label": "shipping"}
+{"id": "t-0283", "text": "Do you offer a discount for non-profits or students?", "label": "general"}
+{"id": "t-0284", "text": "Hello, FedEx says my package was delivered but I never received it. Order #747703.", "label": "shipping"}
+{"id": "t-0285", "text": "Why did my card get billed $79.50 after I cancelled my subscription? This is really frustrating.", "label": "billing"}
+{"id": "t-0286", "text": "I keep getting a timeout error when I try to export a report from the standing desk.", "label": "technical"}
+{"id": "t-0287", "text": "Hey team, My account was locked after too many login attempts. Can you unlock it? Please advise ASAP.", "label": "account"}
+{"id": "t-0288", "text": "I received the wrong item in order #752011. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0289", "text": "Someone logged into my account from Sydney and it wasn't me.", "label": "account"}
+{"id": "t-0290", "text": "The file upload fails with a timeout error for anything over 10 MB.", "label": "technical"}
+{"id": "t-0291", "text": "Hi, My parcel has been stuck at UPS customs for 7 days. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0292", "text": "Is the espresso machine compatible with Galaxy S24?", "label": "general"}
+{"id": "t-0293", "text": "Hey team, I need a VAT invoice for my January payment of $249.99. Please help.", "label": "billing"}
+{"id": "t-0294", "text": "Good morning. How do I update the credit card on file before the next renewal in January?", "label": "billing"}
+{"id": "t-0295", "text": "Part of order #684194 is missing from the box.", "label": "shipping"}
+{"id": "t-0296", "text": "Good morning. Just wanted to say your support team was fantastic last week. Please advise ASAP.", "label": "general"}
+{"id": "t-0297", "text": "Hey team, Do you offer a discount for non-profits or students? Please advise ASAP.", "label": "general"}
+{"id": "t-0298", "text": "Someone logged into my account from Toronto and it wasn't me. Please help.", "label": "account"}
+{"id": "t-0299", "text": "Is the API compatible with Pixel 9?", "label": "general"}
+{"id": "t-0300", "text": "Part of order #606390 is missing from the box.", "label": "shipping"}
+{"id": "t-0301", "text": "Hello, After the latest update the web dashboard is extremely slow in Edge. Appreciate any help!", "label": "technical"}
+{"id": "t-0302", "text": "Hi, I signed up with the wrong username. Can it be changed? Thanks.", "label": "account"}
+{"id": "t-0303", "text": "The file upload fails with a 403 Forbidden message for anything over 10 MB. Please advise ASAP.", "label": "technical"}
+{"id": "t-0304", "text": "What are your customer support hours over the holidays? Appreciate any help!", "label": "general"}
+{"id": "t-0305", "text": "Hello, The mobile app crashes every time I open the settings page on my Linux desktop. Thanks.", "label": "technical"}
+{"id": "t-0306", "text": "Hello, Just wanted to say your support team was fantastic last week.", "label": "general"}
+{"id": "t-0307", "text": "Good morning. Can you upgrade order #312952 to express delivery? I need it within 14 days. Thanks.", "label": "shipping"}
+{"id": "t-0308", "text": "I lost my phone and can't get past two-factor authentication.", "label": "account"}
+{"id": "t-0309", "text": "Good morning. Do you ship to Sydney, and how long does delivery take?", "label": "shipping"}
+{"id": "t-0310", "text": "Can I switch from monthly to annual billing on the Team plan and get the discount? Please advise ASAP.", "label": "billing"}
+{"id": "t-0311", "text": "Hey team, What are your customer support hours over the holidays? Thanks.", "label": "general"}
+{"id": "t-0312", "text": "Hey team, I keep getting a 403 Forbidden message when I try to export a report from the smart thermostat. This is really frustrating.", "label": "technical"}
+{"id": "t-0313", "text": "Notifications stopped working on my Galaxy S24 since January. Please advise ASAP.", "label": "technical"}
+{"id": "t-0314", "text": "Are you hiring? Where can I send my CV?", "label": "general"}
+{"id": "t-0315", "text": "Dark mode makes the text unreadable in the API on my Pixel 9.", "label": "technical"}
+{"id": "t-0316", "text": "Hello, Can I change the delivery address for order #961530? I'm moving to Austin. Appreciate any help!", "label": "shipping"}
+{"id": "t-0317", "text": "Can you upgrade order #855274 to express delivery? I need it within 5 days.", "label": "shipping"}
+{"id": "t-0318", "text": "I requested a refund of $9.99 5 days ago and it still hasn't shown up on my statement. This is really frustrating.", "label": "billing"}
+{"id": "t-0319", "text": "Hey team, Dark mode makes the text unreadable in the espresso machine on my Windows 11 laptop.", "label": "technical"}
+{"id": "t-0320", "text": "Hey team, Just wanted to say your support team was fantastic last week. Thanks.", "label": "general"}
+{"id": "t-0321", "text": "Can you upgrade order #803571 to express delivery? I need it within 3 days. This is really frustrating.", "label": "shipping"}
+{"id": "t-0322", "text": "Do you have a partner or affiliate programme? Thanks.", "label": "general"}
+{"id": "t-0323", "text": "How do I update the credit card on file before the next renewal in May? Please advise ASAP.", "label": "billing"}
+{"id": "t-0324", "text": "Hey team, I'd like to export my personal data under GDPR. This is really frustrating.", "label": "account"}
+{"id": "t-0325", "text": "I received the wrong item in order #185955. Thanks.", "label": "shipping"}
+{"id": "t-0326", "text": "Good morning. My account was locked after too many login attempts. Can you unlock it?", "label": "account"}
+{"id": "t-0327", "text": "Hey team, Someone logged into my account from Dublin and it wasn't me.", "label": "account"}
+{"id": "t-0328", "text": "Good morning. Sync has been stuck at 0% for 10 days on my Pixel 9. Please advise ASAP.", "label": "technical"}
+{"id": "t-0329", "text": "URGENT: Can I switch from monthly to annual billing on the Business plan and get the discount? This is really frustrating.", "label": "billing"}
+{"id": "t-0330", "text": "Can you upgrade order #670792 to express delivery? I need it within 5 days. Appreciate any help!", "label": "shipping"}
+{"id": "t-0331", "text": "Good morning. Do you ship to Dublin, and how long does delivery take? This is really frustrating.", "label": "shipping"}
+{"id": "t-0332", "text": "Why did my card get billed $19 after I cancelled my subscription?", "label": "billing"}
+{"id": "t-0333", "text": "Search returns no results in the wireless headphones even for items I can see in the list. Thanks.", "label": "technical"}
+{"id": "t-0334", "text": "I'd like to return order #286040. How do I get a return label?", "label": "shipping"}
+{"id": "t-0335", "text": "URGENT: There's a charge of $79.50 from you on my statement that I don't recognise. Thanks.", "label": "billing"}
+{"id": "t-0336", "text": "Can I change the delivery address for order #600318? I'm moving to Toronto. Please help.", "label": "shipping"}
+{"id": "t-0337", "text": "Hey team, Just wanted to say your support team was fantastic last week. Appreciate any help!", "label": "general"}
+{"id": "t-0338", "text": "Hello, Can you merge my two accounts? I accidentally registered twice. Appreciate any help!", "label": "account"}
+{"id": "t-0339", "text": "Hey team, Notifications stopped working on my Windows 11 laptop since September. Appreciate any help!", "label": "technical"}
+{"id": "t-0340", "text": "Do you ship to Austin, and how long does delivery take?", "label": "shipping"}
+{"id": "t-0341", "text": "Hi, Order #560295 was supposed to arrive 10 days ago and tracking hasn't updated. Please help.", "label": "shipping"}
+{"id": "t-0342", "text": "Dark mode makes the text unreadable in the mobile app on my Galaxy S24.", "label": "technical"}
+{"id": "t-0343", "text": "My invoice for September shows $29.00 but I downgraded to Business weeks ago. Please help.", "label": "billing"}
+{"id": "t-0344", "text": "Where can I find documentation for getting started with the fitness tracker? Appreciate any help!", "label": "general"}
+{"id": "t-0345", "text": "Hello, What's the difference between the Enterprise plan and the one below it? This is really frustrating.", "label": "general"}
+{"id": "t-0346", "text": "I'd like to return order #128679. How do I get a return label? Please help.", "label": "shipping"}
+{"id": "t-0347", "text": "Hi, The promo code didn't apply at checkout and I paid full price ($120). Please help.", "label": "billing"}
+{"id": "t-0348", "text": "Hi, Why did my card get billed $9.99 after I cancelled my subscription? This is really frustrating.", "label": "billing"}
+{"id": "t-0349", "text": "Sync has been stuck at 0% for 5 days on my Pixel 9.", "label": "technical"}
+{"id": "t-0350", "text": "Good morning. The promo code didn't apply at checkout and I paid full price ($9.99).", "label": "billing"}
+{"id": "t-0351", "text": "URGENT: Do you have a partner or affiliate programme?", "label": "general"}
+{"id": "t-0352", "text": "Hey team, UPS says my package was delivered but I never received it. Order #709231. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0353", "text": "URGENT: I have a feature suggestion: let us pin favourite items to the top. Thanks.", "label": "general"}
+{"id": "t-0354", "text": "Can I change the delivery address for order #819335? I'm moving to Toronto. Please help.", "label": "shipping"}
+{"id": "t-0355", "text": "URGENT: Order #460857 was supposed to arrive 5 days ago and tracking hasn't updated.", "label": "shipping"}
+{"id": "t-0356", "text": "Good morning. I signed up with the wrong username. Can it be changed? This is really frustrating.", "label": "account"}
+{"id": "t-0357", "text": "URGENT: We were billed for 12 seats on Enterprise but only have 8 users. Please correct the invoice.", "label": "billing"}
+{"id": "t-0358", "text": "Hey team, My payment keeps getting declined even though the card works everywhere else. This is really frustrating.", "label": "billing"}
+{"id": "t-0359", "text": "Can I change the delivery address for order #183953? I'm moving to Portland. Appreciate any help!", "label": "shipping"}
+{"id": "t-0360", "text": "Hey team, Order #129959 was supposed to arrive 14 days ago and tracking hasn't updated. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0361", "text": "URGENT: My parcel has been stuck at FedEx customs for 10 days. Please help.", "label": "shipping"}
+{"id": "t-0362", "text": "I can't log in. The password reset email never arrives.", "label": "account"}
+{"id": "t-0363", "text": "Hi, My account was locked after too many login attempts. Can you unlock it?", "label": "account"}
+{"id": "t-0364", "text": "URGENT: Is the smart thermostat compatible with Windows 11 laptop? Thanks.", "label": "general"}
+{"id": "t-0365", "text": "URGENT: My account was locked after too many login attempts. Can you unlock it? Thanks.", "label": "account"}
+{"id": "t-0366", "text": "Hey team, I need a VAT invoice for my May payment of $29.00.", "label": "billing"}
+{"id": "t-0367", "text": "Hi, The mobile app crashes every time I open the settings page on my iPhone 15.", "label": "technical"}
+{"id": "t-0368", "text": "Hey team, The mobile app crashes every time I open the settings page on my Windows 11 laptop.", "label": "technical"}
+{"id": "t-0369", "text": "The mobile app won't connect to Wi-Fi after the firmware update.", "label": "technical"}
+{"id": "t-0370", "text": "Hi, Dark mode makes the text unreadable in the wireless headphones on my iPhone 15. This is really frustrating.", "label": "technical"}
+{"id": "t-0371", "text": "Hey team, Can I change the delivery address for order #413328? I'm moving to Denver.", "label": "shipping"}
+{"id": "t-0372", "text": "After the latest update the web dashboard is extremely slow in Safari.", "label": "technical"}
+{"id": "t-0373", "text": "Hey team, What's the difference between the Enterprise plan and the one below it?", "label": "general"}
+{"id": "t-0374", "text": "Hey team, We were billed for 12 seats on Pro but only have 8 users. Please correct the invoice. This is really frustrating.", "label": "billing"}
+{"id": "t-0375", "text": "Good morning. Notifications stopped working on my Pixel 9 since July. Thanks.", "label": "technical"}
+{"id": "t-0376", "text": "What are your customer support hours over the holidays? This is really frustrating.", "label": "general"}
+{"id": "t-0377", "text": "Hi, I need to transfer ownership of our Enterprise workspace to a colleague. Please advise ASAP.", "label": "account"}
+{"id": "t-0378", "text": "Hey team, We were billed for 12 seats on Business but only have 8 users. Please correct the invoice.", "label": "billing"}
+{"id": "t-0379", "text": "URGENT: I was charged $9.99 twice this month for the Starter plan. Can you refund the duplicate? This is really frustrating.", "label": "billing"}
+{"id": "t-0380", "text": "Good morning. What are your customer support hours over the holidays?", "label": "general"}
+{"id": "t-0381", "text": "What's the difference between the Starter plan and the one below it? Appreciate any help!", "label": "general"}
+{"id": "t-0382", "text": "Hey team, I requested a refund of $120 7 days ago and it still hasn't shown up on my statement.", "label": "billing"}
+{"id": "t-0383", "text": "Hi, Do you have a partner or affiliate programme? Thanks.", "label": "general"}
+{"id": "t-0384", "text": "Order #724702 was supposed to arrive 7 days ago and tracking hasn't updated. Please help.", "label": "shipping"}
+{"id": "t-0385", "text": "Why did my card get billed $19 after I cancelled my subscription? Please help.", "label": "billing"}
+{"id": "t-0386", "text": "Hey team, Please change the email address on my account, I no longer have access to the old one. This is really frustrating.", "label": "account"}
+{"id": "t-0387", "text": "I keep getting error code E-1042 when I try to export a report from the standing desk. Please advise ASAP.", "label": "technical"}
+{"id": "t-0388", "text": "Hello, I can't log in. The password reset email never arrives.", "label": "account"}
+{"id": "t-0389", "text": "How do I add a second admin user to our Enterprise team? Thanks.", "label": "account"}
+{"id": "t-0390", "text": "Hello, The tracking number for order #674779 doesn't work on the UPS site.", "label": "shipping"}
+{"id": "t-0391", "text": "Hi, My parcel has been stuck at FedEx customs for 14 days. Thanks.", "label": "shipping"}
+{"id": "t-0392", "text": "Hey team, The file upload fails with a timeout error for anything over 10 MB. Thanks.", "label": "technical"}
+{"id": "t-0393", "text": "Good morning. I lost my phone and can't get past two-factor authentication.", "label": "account"}
+{"id": "t-0394", "text": "Hello, Sync has been stuck at 0% for 14 days on my Linux desktop.", "label": "technical"}
+{"id": "t-0395", "text": "Hello, I signed up with the wrong username. Can it be changed? This is really frustrating.", "label": "account"}
+{"id": "t-0396", "text": "URGENT: Can I change the delivery address for order #505298? I'm moving to Leeds.", "label": "shipping"}
+{"id": "t-0397", "text": "Hello, How do I delete my account and all associated data? Please advise ASAP.", "label": "account"}
+{"id": "t-0398", "text": "I received the wrong item in order #625600. Please help.", "label": "shipping"}
+{"id": "t-0399", "text": "Hi, The tracking number for order #865344 doesn't work on the DHL site. Appreciate any help!", "label": "shipping"}
+{"id": "t-0400", "text": "Hi, Sync has been stuck at 0% for 5 days on my iPad.", "label": "technical"}
+{"id": "t-0401", "text": "Please change the email address on my account, I no longer have access to the old one. Please advise ASAP.", "label": "account"}
+{"id": "t-0402", "text": "Sync has been stuck at 0% for 7 days on my MacBook Air.", "label": "technical"}
+{"id": "t-0403", "text": "Hi, Just wanted to say your support team was fantastic last week.", "label": "general"}
+{"id": "t-0404", "text": "Hey team, I'd like to return order #747033. How do I get a return label? This is really frustrating.", "label": "shipping"}
+{"id": "t-0405", "text": "I see a 403 Forbidden message in Firefox but it works fine in a private window.", "label": "technical"}
+{"id": "t-0406", "text": "My parcel has been stuck at USPS customs for 10 days. Thanks.", "label": "shipping"}
+{"id": "t-0407", "text": "I signed up with the wrong username. Can it be changed? This is really frustrating.", "label": "account"}
+{"id": "t-0408", "text": "Order #572788 was supposed to arrive 3 days ago and tracking hasn't updated. This is really frustrating.", "label": "shipping"}
+{"id": "t-0409", "text": "After the latest update the desktop client is extremely slow in Firefox. Please help.", "label": "technical"}
+{"id": "t-0410", "text": "Good morning. My payment keeps getting declined even though the card works everywhere else. Appreciate any help!", "label": "billing"}
+{"id": "t-0411", "text": "Can I change the delivery address for order #959959? I'm moving to Portland.", "label": "shipping"}
+{"id": "t-0412", "text": "URGENT: I need to transfer ownership of our Enterprise workspace to a colleague.", "label": "account"}
+{"id": "t-0413", "text": "Hi, Can I change the delivery address for order #650131? I'm moving to Dublin.", "label": "shipping"}
+{"id": "t-0414", "text": "Hey team, There's a charge of $9.99 from you on my statement that I don't recognise.", "label": "billing"}
+{"id": "t-0415", "text": "Hi, Where can I find documentation for getting started with the fitness tracker?", "label": "general"}
+{"id": "t-0416", "text": "Hi, There's a charge of $120 from you on my statement that I don't recognise.", "label": "billing"}
+{"id": "t-0417", "text": "URGENT: The file upload fails with a 403 Forbidden message for anything over 10 MB.", "label": "technical"}
+{"id": "t-0418", "text": "Good morning. Sync has been stuck at 0% for 5 days on my Galaxy S24. Please advise ASAP.", "label": "technical"}
+{"id": "t-0419", "text": "Hey team, Can you upgrade order #318379 to express delivery? I need it within 10 days. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0420", "text": "How do I update the credit card on file before the next renewal in September? Please help.", "label": "billing"}
+{"id": "t-0421", "text": "Good morning. Can I switch from monthly to annual billing on the Starter plan and get the discount? Please help.", "label": "billing"}
+{"id": "t-0422", "text": "I signed up with the wrong username. Can it be changed?", "label": "account"}
+{"id": "t-0423", "text": "Sync has been stuck at 0% for 5 days on my MacBook Air. Please help.", "label": "technical"}
+{"id": "t-0424", "text": "Hi, The promo code didn't apply at checkout and I paid full price ($79.50).", "label": "billing"}
+{"id": "t-0425", "text": "URGENT: My invoice for January shows $29.00 but I downgraded to Enterprise weeks ago.", "label": "billing"}
+{"id": "t-0426", "text": "I need a VAT invoice for my September payment of $19. This is really frustrating.", "label": "billing"}
+{"id": "t-0427", "text": "Good morning. I have a feature suggestion: let us pin favourite items to the top. Thanks.", "label": "general"}
+{"id": "t-0428", "text": "Good morning. I keep getting a timeout error when I try to export a report from the desktop client.", "label": "technical"}
+{"id": "t-0429", "text": "Hey team, Please change the email address on my account, I no longer have access to the old one. Thanks.", "label": "account"}
+{"id": "t-0430", "text": "Good morning. What's the difference between the Business plan and the one below it?", "label": "general"}
+{"id": "t-0431", "text": "URGENT: What are your customer support hours over the holidays? Please advise ASAP.", "label": "general"}
+{"id": "t-0432", "text": "URGENT: I received the wrong item in order #657062. This is really frustrating.", "label": "shipping"}
+{"id": "t-0433", "text": "URGENT: The API crashes every time I open the settings page on my Linux desktop.", "label": "technical"}
+{"id": "t-0434", "text": "URGENT: How do I delete my account and all associated data? Appreciate any help!", "label": "account"}
+{"id": "t-0435", "text": "Hey team, Someone logged into my account from Toronto and it wasn't me. Appreciate any help!", "label": "account"}
+{"id": "t-0436", "text": "Sync has been stuck at 0% for 2 days on my iPhone 15.", "label": "technical"}
+{"id": "t-0437", "text": "Hi, Do you ship to Sydney, and how long does delivery take?", "label": "shipping"}
+{"id": "t-0438", "text": "Order #484795 was supposed to arrive 7 days ago and tracking hasn't updated. This is really frustrating.", "label": "shipping"}
+{"id": "t-0439", "text": "Can you merge my two accounts? I accidentally registered twice. Thanks.", "label": "account"}
+{"id": "t-0440", "text": "Good morning. I'd like to return order #591644. How do I get a return label? Please advise ASAP.", "label": "shipping"}
+{"id": "t-0441", "text": "Good morning. Order #373094 was supposed to arrive 3 days ago and tracking hasn't updated.", "label": "shipping"}
+{"id": "t-0442", "text": "Hello, What are your customer support hours over the holidays? Please help.", "label": "general"}
+{"id": "t-0443", "text": "Hey team, Search returns no results in the fitness tracker even for items I can see in the list.", "label": "technical"}
+{"id": "t-0444", "text": "Good morning. I lost my phone and can't get past two-factor authentication. Appreciate any help!", "label": "account"}
+{"id": "t-0445", "text": "FedEx says my package was delivered but I never received it. Order #892182.", "label": "shipping"}
+{"id": "t-0446", "text": "Hello, I'd like to return order #509018. How do I get a return label?", "label": "shipping"}
+{"id": "t-0447", "text": "Hello, Is the wireless headphones compatible with Windows 11 laptop? Please advise ASAP.", "label": "general"}
+{"id": "t-0448", "text": "Hi, I'd like to export my personal data under GDPR. Please advise ASAP.", "label": "account"}
+{"id": "t-0449", "text": "Good morning. Dark mode makes the text unreadable in the smart thermostat on my iPhone 15. Please advise ASAP.", "label": "technical"}
+{"id": "t-0450", "text": "After the latest update the browser extension is extremely slow in Chrome.", "label": "technical"}
+{"id": "t-0451", "text": "Good morning. The promo code didn't apply at checkout and I paid full price ($49).", "label": "billing"}
+{"id": "t-0452", "text": "URGENT: Order #390756 was supposed to arrive 14 days ago and tracking hasn't updated. Appreciate any help!", "label": "shipping"}
+{"id": "t-0453", "text": "I keep getting Error 500 when I try to export a report from the espresso machine. Please help.", "label": "technical"}
+{"id": "t-0454", "text": "URGENT: Do you ship to Denver, and how long does delivery take?", "label": "shipping"}
+{"id": "t-0455", "text": "I have a feature suggestion: let us pin favourite items to the top. Please advise ASAP.", "label": "general"}
+{"id": "t-0456", "text": "Hello, How do I add a second admin user to our Business team? Thanks.", "label": "account"}
+{"id": "t-0457", "text": "Search returns no results in the espresso machine even for items I can see in the list. This is really frustrating.", "label": "technical"}
+{"id": "t-0458", "text": "Hello, The integration with our calendar broke and events are now duplicated. This is really frustrating.", "label": "technical"}
+{"id": "t-0459", "text": "Good morning. Can someone from sales give us a demo next week?", "label": "general"}
+{"id": "t-0460", "text": "Hi, Search returns no results in the mobile app even for items I can see in the list.", "label": "technical"}
+{"id": "t-0461", "text": "Hey team, Sync has been stuck at 0% for 14 days on my Galaxy S24. Thanks.", "label": "technical"}
+{"id": "t-0462", "text": "There's a charge of $29.00 from you on my statement that I don't recognise. This is really frustrating.", "label": "billing"}
+{"id": "t-0463", "text": "The fitness tracker crashes every time I open the settings page on my Linux desktop.", "label": "technical"}
+{"id": "t-0464", "text": "Good morning. There's a charge of $49 from you on my statement that I don't recognise. Appreciate any help!", "label": "billing"}
+{"id": "t-0465", "text": "Hey team, Notifications stopped working on my iPad since September. Appreciate any help!", "label": "technical"}
+{"id": "t-0466", "text": "Hi, We were billed for 12 seats on Pro but only have 8 users. Please correct the invoice. Please help.", "label": "billing"}
+{"id": "t-0467", "text": "Hey team, I was charged $249.99 twice this month for the Starter plan. Can you refund the duplicate? Please help.", "label": "billing"}
+{"id": "t-0468", "text": "Sync has been stuck at 0% for 10 days on my Linux desktop.", "label": "technical"}
+{"id": "t-0469", "text": "Hi, Do you ship to Toronto, and how long does delivery take?", "label": "shipping"}
+{"id": "t-0470", "text": "How do I add a second admin user to our Starter team? Appreciate any help!", "label": "account"}
+{"id": "t-0471", "text": "Hello, The file upload fails with a blank white screen for anything over 10 MB. Thanks.", "label": "technical"}
+{"id": "t-0472", "text": "Someone logged into my account from Sydney and it wasn't me. Please advise ASAP.", "label": "account"}
+{"id": "t-0473", "text": "Good morning. After the latest update the browser extension is extremely slow in Safari. This is really frustrating.", "label": "technical"}
+{"id": "t-0474", "text": "Can you merge my two accounts? I accidentally registered twice. Appreciate any help!", "label": "account"}
+{"id": "t-0475", "text": "Good morning. My invoice for July shows $120 but I downgraded to Business weeks ago. This is really frustrating.", "label": "billing"}
+{"id": "t-0476", "text": "Dark mode makes the text unreadable in the web dashboard on my Galaxy S24.", "label": "technical"}
+{"id": "t-0477", "text": "The tracking number for order #837290 doesn't work on the Royal Mail site. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0478", "text": "Hi, Can you upgrade order #831963 to express delivery? I need it within 14 days.", "label": "shipping"}
+{"id": "t-0479", "text": "Good morning. Dark mode makes the text unreadable in the espresso machine on my Linux desktop. Thanks.", "label": "technical"}
+{"id": "t-0480", "text": "Good morning. Search returns no results in the smart thermostat even for items I can see in the list.", "label": "technical"}
+{"id": "t-0481", "text": "The tracking number for order #184064 doesn't work on the DHL site. Please help.", "label": "shipping"}
+{"id": "t-0482", "text": "We were billed for 12 seats on Pro but only have 8 users. Please correct the invoice. Please help.", "label": "billing"}
+{"id": "t-0483", "text": "Hey team, Can I change the delivery address for order #123107? I'm moving to Toronto. Appreciate any help!", "label": "shipping"}
+{"id": "t-0484", "text": "Where can I find documentation for getting started with the smart thermostat? Please help.", "label": "general"}
+{"id": "t-0485", "text": "Hello, The integration with our calendar broke and events are now duplicated.", "label": "technical"}
+{"id": "t-0486", "text": "After the latest update the desktop client is extremely slow in Safari. Please advise ASAP.", "label": "technical"}
+{"id": "t-0487", "text": "Good morning. I need a VAT invoice for my January payment of $19. Please advise ASAP.", "label": "billing"}
+{"id": "t-0488", "text": "Good morning. There's a charge of $79.50 from you on my statement that I don't recognise.", "label": "billing"}
+{"id": "t-0489", "text": "Hey team, Is the wireless headphones compatible with iPad? Appreciate any help!", "label": "general"}
+{"id": "t-0490", "text": "Good morning. Someone logged into my account from Portland and it wasn't me. Please help.", "label": "account"}
+{"id": "t-0491", "text": "The file upload fails with a timeout error for anything over 10 MB. Appreciate any help!", "label": "technical"}
+{"id": "t-0492", "text": "URGENT: Why did my card get billed $120 after I cancelled my subscription? Please help.", "label": "billing"}
+{"id": "t-0493", "text": "Just wanted to say your support team was fantastic last week.", "label": "general"}
+{"id": "t-0494", "text": "Hi, Dark mode makes the text unreadable in the browser extension on my Windows 11 laptop.", "label": "technical"}
+{"id": "t-0495", "text": "Good morning. We were billed for 12 seats on Business but only have 8 users. Please correct the invoice.", "label": "billing"}
+{"id": "t-0496", "text": "Hey team, I lost my phone and can't get past two-factor authentication.", "label": "account"}
+{"id": "t-0497", "text": "Hi, There's a charge of $49 from you on my statement that I don't recognise.", "label": "billing"}
+{"id": "t-0498", "text": "Can I switch from monthly to annual billing on the Pro plan and get the discount? Please advise ASAP.", "label": "billing"}
+{"id": "t-0499", "text": "Hi, Sync has been stuck at 0% for 5 days on my MacBook Air. Thanks.", "label": "technical"}
+{"id": "t-0500", "text": "Hi, Please change the email address on my account, I no longer have access to the old one.", "label": "account"}
+{"id": "t-0501", "text": "Good morning. The API crashes every time I open the settings page on my Pixel 9. Appreciate any help!", "label": "technical"}
+{"id": "t-0502", "text": "Hello, My invoice for July shows $9.99 but I downgraded to Starter weeks ago.", "label": "billing"}
+{"id": "t-0503", "text": "Hey team, The promo code didn't apply at checkout and I paid full price ($19). Please advise ASAP.", "label": "billing"}
+{"id": "t-0504", "text": "Hi, After the latest update the espresso machine is extremely slow in Chrome. Please help.", "label": "technical"}
+{"id": "t-0505", "text": "Search returns no results in the espresso machine even for items I can see in the list.", "label": "technical"}
+{"id": "t-0506", "text": "Hello, Can you merge my two accounts? I accidentally registered twice. This is really frustrating.", "label": "account"}
+{"id": "t-0507", "text": "Good morning. Dark mode makes the text unreadable in the espresso machine on my Pixel 9.", "label": "technical"}
+{"id": "t-0508", "text": "UPS says my package was delivered but I never received it. Order #719244.", "label": "shipping"}
+{"id": "t-0509", "text": "Hello, How do I add a second admin user to our Team team? Please help.", "label": "account"}
+{"id": "t-0510", "text": "Hello, USPS says my package was delivered but I never received it. Order #213284. This is really frustrating.", "label": "shipping"}
+{"id": "t-0511", "text": "Hey team, The tracking number for order #287795 doesn't work on the UPS site.", "label": "shipping"}
+{"id": "t-0512", "text": "Good morning. How do I add a second admin user to our Enterprise team? Please help.", "label": "account"}
+{"id": "t-0513", "text": "Good morning. Is the smart thermostat compatible with Linux desktop? This is really frustrating.", "label": "general"}
+{"id": "t-0514", "text": "Good morning. I requested a refund of $79.50 14 days ago and it still hasn't shown up on my statement.", "label": "billing"}
+{"id": "t-0515", "text": "URGENT: Do you offer a discount for non-profits or students? Please help.", "label": "general"}
+{"id": "t-0516", "text": "Hey team, My fitness tracker arrived with a cracked casing. Order #147310. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0517", "text": "Hi, Just wanted to say your support team was fantastic last week. Thanks.", "label": "general"}
+{"id": "t-0518", "text": "I need to transfer ownership of our Starter workspace to a colleague. This is really frustrating.", "label": "account"}
+{"id": "t-0519", "text": "Do you ship to Denver, and how long does delivery take? This is really frustrating.", "label": "shipping"}
+{"id": "t-0520", "text": "Good morning. I need a VAT invoice for my September payment of $49.", "label": "billing"}
+{"id": "t-0521", "text": "What's the difference between the Team plan and the one below it? Please advise ASAP.", "label": "general"}
+{"id": "t-0522", "text": "Hello, My account was locked after too many login attempts. Can you unlock it? Appreciate any help!", "label": "account"}
+{"id": "t-0523", "text": "Do you offer a discount for non-profits or students? This is really frustrating.", "label": "general"}
+{"id": "t-0524", "text": "Hi, The integration with our calendar broke and events are now duplicated. Please advise ASAP.", "label": "technical"}
+{"id": "t-0525", "text": "URGENT: Can I change the delivery address for order #764721? I'm moving to Leeds. Please help.", "label": "shipping"}
+{"id": "t-0526", "text": "Hello, How do I delete my account and all associated data? This is really frustrating.", "label": "account"}
+{"id": "t-0527", "text": "I received the wrong item in order #370948.", "label": "shipping"}
+{"id": "t-0528", "text": "My parcel has been stuck at Royal Mail customs for 2 days. Appreciate any help!", "label": "shipping"}
+{"id": "t-0529", "text": "Hey team, I keep getting a blank white screen when I try to export a report from the API. Please advise ASAP.", "label": "technical"}
+{"id": "t-0530", "text": "Where can I find documentation for getting started with the wireless headphones? This is really frustrating.", "label": "general"}
+{"id": "t-0531", "text": "Hey team, I have a feature suggestion: let us pin favourite items to the top. Please help.", "label": "general"}
+{"id": "t-0532", "text": "Hey team, We were billed for 12 seats on Starter but only have 8 users. Please correct the invoice.", "label": "billing"}
+{"id": "t-0533", "text": "Someone logged into my account from Denver and it wasn't me.", "label": "account"}
+{"id": "t-0534", "text": "I can't log in. The password reset email never arrives. This is really frustrating.", "label": "account"}
+{"id": "t-0535", "text": "Dark mode makes the text unreadable in the mobile app on my MacBook Air. Appreciate any help!", "label": "technical"}
+{"id": "t-0536", "text": "Hi, Can you upgrade order #778540 to express delivery? I need it within 7 days.", "label": "shipping"}
+{"id": "t-0537", "text": "Do you ship to Leeds, and how long does delivery take?", "label": "shipping"}
+{"id": "t-0538", "text": "Hello, The promo code didn't apply at checkout and I paid full price ($249.99). This is really frustrating.", "label": "billing"}
+{"id": "t-0539", "text": "URGENT: My desktop client arrived with a cracked casing. Order #538651.", "label": "shipping"}
+{"id": "t-0540", "text": "My invoice for September shows $19 but I downgraded to Team weeks ago. This is really frustrating.", "label": "billing"}
+{"id": "t-0541", "text": "I keep getting 'Something went wrong' when I try to export a report from the smart thermostat.", "label": "technical"}
+{"id": "t-0542", "text": "Hello, Someone logged into my account from Leeds and it wasn't me. Appreciate any help!", "label": "account"}
+{"id": "t-0543", "text": "I lost my phone and can't get past two-factor authentication. Please advise ASAP.", "label": "account"}
+{"id": "t-0544", "text": "URGENT: Do you have a partner or affiliate programme? Please help.", "label": "general"}
+{"id": "t-0545", "text": "Good morning. I'd like to export my personal data under GDPR.", "label": "account"}
+{"id": "t-0546", "text": "I received the wrong item in order #313630.", "label": "shipping"}
+{"id": "t-0547", "text": "Is the browser extension compatible with Pixel 9? Thanks.", "label": "general"}
+{"id": "t-0548", "text": "Do you ship to Dublin, and how long does delivery take?", "label": "shipping"}
+{"id": "t-0549", "text": "URGENT: After the latest update the mobile app is extremely slow in Edge.", "label": "technical"}
+{"id": "t-0550", "text": "The promo code didn't apply at checkout and I paid full price ($49). Please advise ASAP.", "label": "billing"}
+{"id": "t-0551", "text": "URGENT: My invoice for May shows $19 but I downgraded to Enterprise weeks ago. Please advise ASAP.", "label": "billing"}
+{"id": "t-0552", "text": "Can someone from sales give us a demo next week? This is really frustrating.", "label": "general"}
+{"id": "t-0553", "text": "Hi, Where can I find documentation for getting started with the espresso machine? Appreciate any help!", "label": "general"}
+{"id": "t-0554", "text": "Hello, How do I add a second admin user to our Starter team? Please advise ASAP.", "label": "account"}
+{"id": "t-0555", "text": "My browser extension arrived with a cracked casing. Order #321321. Please help.", "label": "shipping"}
+{"id": "t-0556", "text": "Good morning. I requested a refund of $9.99 2 days ago and it still hasn't shown up on my statement. Please help.", "label": "billing"}
+{"id": "t-0557", "text": "Hello, I keep getting error code E-1042 when I try to export a report from the mobile app. This is really frustrating.", "label": "technical"}
+{"id": "t-0558", "text": "Hi, I see Error 500 in Edge but it works fine in a private window. Thanks.", "label": "technical"}
+{"id": "t-0559", "text": "Hello, Can you merge my two accounts? I accidentally registered twice.", "label": "account"}
+{"id": "t-0560", "text": "URGENT: Order #653971 was supposed to arrive 10 days ago and tracking hasn't updated. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0561", "text": "Is the web dashboard compatible with Windows 11 laptop?", "label": "general"}
+{"id": "t-0562", "text": "Good morning. Please change the email address on my account, I no longer have access to the old one.", "label": "account"}
+{"id": "t-0563", "text": "The API crashes every time I open the settings page on my iPhone 15. Please advise ASAP.", "label": "technical"}
+{"id": "t-0564", "text": "Hi, Please change the email address on my account, I no longer have access to the old one. This is really frustrating.", "label": "account"}
+{"id": "t-0565", "text": "Can you merge my two accounts? I accidentally registered twice.", "label": "account"}
+{"id": "t-0566", "text": "Hi, UPS says my package was delivered but I never received it. Order #760525. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0567", "text": "Sync has been stuck at 0% for 10 days on my Windows 11 laptop. Thanks.", "label": "technical"}
+{"id": "t-0568", "text": "Hey team, The tracking number for order #849941 doesn't work on the DHL site. Thanks.", "label": "shipping"}
+{"id": "t-0569", "text": "Hey team, Dark mode makes the text unreadable in the espresso machine on my Pixel 9.", "label": "technical"}
+{"id": "t-0570", "text": "URGENT: Order #555157 was supposed to arrive 10 days ago and tracking hasn't updated.", "label": "shipping"}
+{"id": "t-0571", "text": "Good morning. Can you merge my two accounts? I accidentally registered twice. Please advise ASAP.", "label": "account"}
+{"id": "t-0572", "text": "Hello, Part of order #232126 is missing from the box. Thanks.", "label": "shipping"}
+{"id": "t-0573", "text": "Hi, The promo code didn't apply at checkout and I paid full price ($29.00). Please help.", "label": "billing"}
+{"id": "t-0574", "text": "Order #229827 was supposed to arrive 2 days ago and tracking hasn't updated. This is really frustrating.", "label": "shipping"}
+{"id": "t-0575", "text": "URGENT: Is the API compatible with iPad?", "label": "general"}
+{"id": "t-0576", "text": "URGENT: How do I update the credit card on file before the next renewal in May? Please help.", "label": "billing"}
+{"id": "t-0577", "text": "Hey team, I keep getting a timeout error when I try to export a report from the standing desk. Please help.", "label": "technical"}
+{"id": "t-0578", "text": "Why did my card get billed $9.99 after I cancelled my subscription? Appreciate any help!", "label": "billing"}
+{"id": "t-0579", "text": "URGENT: I was charged $19 twice this month for the Team plan. Can you refund the duplicate? This is really frustrating.", "label": "billing"}
+{"id": "t-0580", "text": "Good morning. Is there a public roadmap? I'd love to know if an offline mode is planned. This is really frustrating.", "label": "general"}
+{"id": "t-0581", "text": "Part of order #455465 is missing from the box. This is really frustrating.", "label": "shipping"}
+{"id": "t-0582", "text": "Good morning. Can you upgrade order #357201 to express delivery? I need it within 14 days.", "label": "shipping"}
+{"id": "t-0583", "text": "URGENT: My account was locked after too many login attempts. Can you unlock it?", "label": "account"}
+{"id": "t-0584", "text": "Hey team, I requested a refund of $19 2 days ago and it still hasn't shown up on my statement. Please help.", "label": "billing"}
+{"id": "t-0585", "text": "Hello, Royal Mail says my package was delivered but I never received it. Order #503752.", "label": "shipping"}
+{"id": "t-0586", "text": "I signed up with the wrong username. Can it be changed? Thanks.", "label": "account"}
+{"id": "t-0587", "text": "URGENT: Just wanted to say your support team was fantastic last week. This is really frustrating.", "label": "general"}
+{"id": "t-0588", "text": "URGENT: The promo code didn't apply at checkout and I paid full price ($249.99). Please advise ASAP.", "label": "billing"}
+{"id": "t-0589", "text": "I keep getting a timeout error when I try to export a report from the fitness tracker. Please help.", "label": "technical"}
+{"id": "t-0590", "text": "Hey team, My parcel has been stuck at DHL customs for 5 days. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0591", "text": "Dark mode makes the text unreadable in the standing desk on my Galaxy S24. Appreciate any help!", "label": "technical"}
+{"id": "t-0592", "text": "URGENT: Do you have a partner or affiliate programme? Please advise ASAP.", "label": "general"}
+{"id": "t-0593", "text": "Hey team, I received the wrong item in order #120742. Thanks.", "label": "shipping"}
+{"id": "t-0594", "text": "Hi, How do I update the credit card on file before the next renewal in May?", "label": "billing"}
+{"id": "t-0595", "text": "I see a blank white screen in Edge but it works fine in a private window.", "label": "technical"}
+{"id": "t-0596", "text": "Hello, Can someone from sales give us a demo next week? This is really frustrating.", "label": "general"}
+{"id": "t-0597", "text": "I see 'Something went wrong' in Chrome but it works fine in a private window. Thanks.", "label": "technical"}
+{"id": "t-0598", "text": "URGENT: I'd like to return order #129226. How do I get a return label?", "label": "shipping"}
+{"id": "t-0599", "text": "Why did my card get billed $9.99 after I cancelled my subscription? This is really frustrating.", "label": "billing"}
+{"id": "t-0600", "text": "URGENT: I requested a refund of $120 7 days ago and it still hasn't shown up on my statement.", "label": "billing"}
+{"id": "t-0601", "text": "Is the wireless headphones compatible with Linux desktop? Please advise ASAP.", "label": "general"}
+{"id": "t-0602", "text": "Hi, How do I update the credit card on file before the next renewal in January?", "label": "billing"}
+{"id": "t-0603", "text": "Hello, How do I add a second admin user to our Business team? Please advise ASAP.", "label": "account"}
+{"id": "t-0604", "text": "Hey team, Someone logged into my account from Dublin and it wasn't me. Thanks.", "label": "account"}
+{"id": "t-0605", "text": "Hey team, I see 'Something went wrong' in Edge but it works fine in a private window. Please help.", "label": "technical"}
+{"id": "t-0606", "text": "Good morning. Can I change the delivery address for order #333858? I'm moving to Austin. Thanks.", "label": "shipping"}
+{"id": "t-0607", "text": "The standing desk crashes every time I open the settings page on my Windows 11 laptop. Please advise ASAP.", "label": "technical"}
+{"id": "t-0608", "text": "The promo code didn't apply at checkout and I paid full price ($19). Thanks.", "label": "billing"}
+{"id": "t-0609", "text": "URGENT: How do I update the credit card on file before the next renewal in November?", "label": "billing"}
+{"id": "t-0610", "text": "Hi, I requested a refund of $249.99 3 days ago and it still hasn't shown up on my statement.", "label": "billing"}
+{"id": "t-0611", "text": "Where can I find documentation for getting started with the fitness tracker? This is really frustrating.", "label": "general"}
+{"id": "t-0612", "text": "Hey team, The integration with our calendar broke and events are now duplicated. This is really frustrating.", "label": "technical"}
+{"id": "t-0613", "text": "URGENT: What's the difference between the Pro plan and the one below it?", "label": "general"}
+{"id": "t-0614", "text": "Hello, The file upload fails with error code E-1042 for anything over 10 MB.", "label": "technical"}
+{"id": "t-0615", "text": "Good morning. The web dashboard won't connect to Wi-Fi after the firmware update. This is really frustrating.", "label": "technical"}
+{"id": "t-0616", "text": "I received the wrong item in order #345147. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0617", "text": "Can I switch from monthly to annual billing on the Enterprise plan and get the discount? Thanks.", "label": "billing"}
+{"id": "t-0618", "text": "URGENT: I lost my phone and can't get past two-factor authentication. Thanks.", "label": "account"}
+{"id": "t-0619", "text": "Hey team, I keep getting a timeout error when I try to export a report from the API. Thanks.", "label": "technical"}
+{"id": "t-0620", "text": "I received the wrong item in order #234580. This is really frustrating.", "label": "shipping"}
+{"id": "t-0621", "text": "Hi, Someone logged into my account from Denver and it wasn't me. This is really frustrating.", "label": "account"}
+{"id": "t-0622", "text": "Good morning. I was charged $49 twice this month for the Enterprise plan. Can you refund the duplicate?", "label": "billing"}
+{"id": "t-0623", "text": "Hey team, The API crashes every time I open the settings page on my Pixel 9.", "label": "technical"}
+{"id": "t-0624", "text": "After the latest update the smart thermostat is extremely slow in Edge. Thanks.", "label": "technical"}
+{"id": "t-0625", "text": "I see a timeout error in Firefox but it works fine in a private window.", "label": "technical"}
+{"id": "t-0626", "text": "Hello, My parcel has been stuck at USPS customs for 10 days.", "label": "shipping"}
+{"id": "t-0627", "text": "Search returns no results in the standing desk even for items I can see in the list. Please help.", "label": "technical"}
+{"id": "t-0628", "text": "URGENT: After the latest update the espresso machine is extremely slow in Edge.", "label": "technical"}
+{"id": "t-0629", "text": "Hi, We were billed for 12 seats on Starter but only have 8 users. Please correct the invoice. This is really frustrating.", "label": "billing"}
+{"id": "t-0630", "text": "The standing desk won't connect to Wi-Fi after the firmware update.", "label": "technical"}
+{"id": "t-0631", "text": "I was charged $49 twice this month for the Pro plan. Can you refund the duplicate? Appreciate any help!", "label": "billing"}
+{"id": "t-0632", "text": "Please change the email address on my account, I no longer have access to the old one. Appreciate any help!", "label": "account"}
+{"id": "t-0633", "text": "Why did my card get billed $249.99 after I cancelled my subscription? Appreciate any help!", "label": "billing"}
+{"id": "t-0634", "text": "Hello, Please change the email address on my account, I no longer have access to the old one. Please advise ASAP.", "label": "account"}
+{"id": "t-0635", "text": "How do I update the credit card on file before the next renewal in January? Please help.", "label": "billing"}
+{"id": "t-0636", "text": "Good morning. We were billed for 12 seats on Team but only have 8 users. Please correct the invoice.", "label": "billing"}
+{"id": "t-0637", "text": "URGENT: The mobile app crashes every time I open the settings page on my Windows 11 laptop. Please help.", "label": "technical"}
+{"id": "t-0638", "text": "URGENT: I need a VAT invoice for my November payment of $29.00. Please advise ASAP.", "label": "billing"}
+{"id": "t-0639", "text": "I keep getting a blank white screen when I try to export a report from the standing desk. Thanks.", "label": "technical"}
+{"id": "t-0640", "text": "Hi, Sync has been stuck at 0% for 14 days on my Windows 11 laptop. Please help.", "label": "technical"}
+{"id": "t-0641", "text": "Good morning. How do I add a second admin user to our Business team? Appreciate any help!", "label": "account"}
+{"id": "t-0642", "text": "Where can I find documentation for getting started with the fitness tracker?", "label": "general"}
+{"id": "t-0643", "text": "Hi, How do I add a second admin user to our Business team?", "label": "account"}
+{"id": "t-0644", "text": "Good morning. I need to transfer ownership of our Starter workspace to a colleague. Please advise ASAP.", "label": "account"}
+{"id": "t-0645", "text": "I was charged $120 twice this month for the Business plan. Can you refund the duplicate? Please help.", "label": "billing"}
+{"id": "t-0646", "text": "URGENT: Is the standing desk compatible with iPad?", "label": "general"}
+{"id": "t-0647", "text": "I keep getting a timeout error when I try to export a report from the browser extension. Appreciate any help!", "label": "technical"}
+{"id": "t-0648", "text": "My parcel has been stuck at FedEx customs for 3 days.", "label": "shipping"}
+{"id": "t-0649", "text": "My payment keeps getting declined even though the card works everywhere else.", "label": "billing"}
+{"id": "t-0650", "text": "Hello, How do I update the credit card on file before the next renewal in March? This is really frustrating.", "label": "billing"}
+{"id": "t-0651", "text": "The tracking number for order #517827 doesn't work on the DHL site. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0652", "text": "Hey team, How do I delete my account and all associated data? This is really frustrating.", "label": "account"}
+{"id": "t-0653", "text": "Good morning. Do you have a partner or affiliate programme? Thanks.", "label": "general"}
+{"id": "t-0654", "text": "URGENT: What are your customer support hours over the holidays? Please help.", "label": "general"}
+{"id": "t-0655", "text": "FedEx says my package was delivered but I never received it. Order #833907. Appreciate any help!", "label": "shipping"}
+{"id": "t-0656", "text": "Good morning. There's a charge of $49 from you on my statement that I don't recognise.", "label": "billing"}
+{"id": "t-0657", "text": "URGENT: Someone logged into my account from Portland and it wasn't me. Thanks.", "label": "account"}
+{"id": "t-0658", "text": "Hey team, I keep getting a blank white screen when I try to export a report from the browser extension.", "label": "technical"}
+{"id": "t-0659", "text": "I need to transfer ownership of our Enterprise workspace to a colleague. Thanks.", "label": "account"}
+{"id": "t-0660", "text": "Hello, Why did my card get billed $79.50 after I cancelled my subscription?", "label": "billing"}
+{"id": "t-0661", "text": "Good morning. I need a VAT invoice for my November payment of $29.00. Please help.", "label": "billing"}
+{"id": "t-0662", "text": "Hello, The tracking number for order #862729 doesn't work on the FedEx site.", "label": "shipping"}
+{"id": "t-0663", "text": "Hello, The promo code didn't apply at checkout and I paid full price ($29.00). Thanks.", "label": "billing"}
+{"id": "t-0664", "text": "My parcel has been stuck at FedEx customs for 3 days. Appreciate any help!", "label": "shipping"}
+{"id": "t-0665", "text": "URGENT: Can you upgrade order #454928 to express delivery? I need it within 5 days.", "label": "shipping"}
+{"id": "t-0666", "text": "The tracking number for order #784507 doesn't work on the USPS site. This is really frustrating.", "label": "shipping"}
+{"id": "t-0667", "text": "Hi, Part of order #801279 is missing from the box.", "label": "shipping"}
+{"id": "t-0668", "text": "Hello, Is the fitness tracker compatible with Galaxy S24?", "label": "general"}
+{"id": "t-0669", "text": "Good morning. There's a charge of $120 from you on my statement that I don't recognise.", "label": "billing"}
+{"id": "t-0670", "text": "URGENT: I see 'Something went wrong' in Safari but it works fine in a private window.", "label": "technical"}
+{"id": "t-0671", "text": "Hi, Is there a public roadmap? I'd love to know if an offline mode is planned.", "label": "general"}
+{"id": "t-0672", "text": "URGENT: Someone logged into my account from Sydney and it wasn't me.", "label": "account"}
+{"id": "t-0673", "text": "Hey team, Do you have a partner or affiliate programme? Please help.", "label": "general"}
+{"id": "t-0674", "text": "URGENT: Can I switch from monthly to annual billing on the Team plan and get the discount?", "label": "billing"}
+{"id": "t-0675", "text": "I'd like to return order #841119. How do I get a return label? This is really frustrating.", "label": "shipping"}
+{"id": "t-0676", "text": "Hey team, Someone logged into my account from Portland and it wasn't me.", "label": "account"}
+{"id": "t-0677", "text": "URGENT: I was charged $9.99 twice this month for the Pro plan. Can you refund the duplicate?", "label": "billing"}
+{"id": "t-0678", "text": "URGENT: Order #971783 was supposed to arrive 14 days ago and tracking hasn't updated. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0679", "text": "Hey team, Sync has been stuck at 0% for 10 days on my Windows 11 laptop.", "label": "technical"}
+{"id": "t-0680", "text": "Good morning. I received the wrong item in order #404154. Please help.", "label": "shipping"}
+{"id": "t-0681", "text": "Good morning. I can't log in. The password reset email never arrives. This is really frustrating.", "label": "account"}
+{"id": "t-0682", "text": "URGENT: Why did my card get billed $79.50 after I cancelled my subscription? Please advise ASAP.", "label": "billing"}
+{"id": "t-0683", "text": "Hello, Why did my card get billed $49 after I cancelled my subscription? Thanks.", "label": "billing"}
+{"id": "t-0684", "text": "I'd like to return order #980130. How do I get a return label?", "label": "shipping"}
+{"id": "t-0685", "text": "Hey team, Someone logged into my account from Austin and it wasn't me.", "label": "account"}
+{"id": "t-0686", "text": "Hey team, Sync has been stuck at 0% for 5 days on my iPhone 15. Appreciate any help!", "label": "technical"}
+{"id": "t-0687", "text": "Hi, Can someone from sales give us a demo next week?", "label": "general"}
+{"id": "t-0688", "text": "Hi, Someone logged into my account from Denver and it wasn't me.", "label": "account"}
+{"id": "t-0689", "text": "Hi, The fitness tracker crashes every time I open the settings page on my Pixel 9.", "label": "technical"}
+{"id": "t-0690", "text": "URGENT: There's a charge of $79.50 from you on my statement that I don't recognise.", "label": "billing"}
+{"id": "t-0691", "text": "I can't log in. The password reset email never arrives. Please advise ASAP.", "label": "account"}
+{"id": "t-0692", "text": "Notifications stopped working on my iPhone 15 since May.", "label": "technical"}
+{"id": "t-0693", "text": "URGENT: How do I update the credit card on file before the next renewal in March?", "label": "billing"}
+{"id": "t-0694", "text": "Hey team, There's a charge of $9.99 from you on my statement that I don't recognise. Please help.", "label": "billing"}
+{"id": "t-0695", "text": "Hey team, Part of order #364792 is missing from the box. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0696", "text": "Hello, My web dashboard arrived with a cracked casing. Order #830549.", "label": "shipping"}
+{"id": "t-0697", "text": "URGENT: Are you hiring? Where can I send my CV? Appreciate any help!", "label": "general"}
+{"id": "t-0698", "text": "Good morning. Are you hiring? Where can I send my CV? Please help.", "label": "general"}
+{"id": "t-0699", "text": "My account was locked after too many login attempts. Can you unlock it?", "label": "account"}
+{"id": "t-0700", "text": "Hey team, I need to transfer ownership of our Team workspace to a colleague. Please advise ASAP.", "label": "account"}
+{"id": "t-0701", "text": "Hey team, I was charged $120 twice this month for the Team plan. Can you refund the duplicate? Thanks.", "label": "billing"}
+{"id": "t-0702", "text": "Hello, I'd like to export my personal data under GDPR. Thanks.", "label": "account"}
+{"id": "t-0703", "text": "Hey team, The tracking number for order #861566 doesn't work on the USPS site.", "label": "shipping"}
+{"id": "t-0704", "text": "Hello, My parcel has been stuck at FedEx customs for 7 days.", "label": "shipping"}
+{"id": "t-0705", "text": "Good morning. How do I delete my account and all associated data? Appreciate any help!", "label": "account"}
+{"id": "t-0706", "text": "I was charged $120 twice this month for the Pro plan. Can you refund the duplicate?", "label": "billing"}
+{"id": "t-0707", "text": "The file upload fails with a 403 Forbidden message for anything over 10 MB. Thanks.", "label": "technical"}
+{"id": "t-0708", "text": "Notifications stopped working on my MacBook Air since March.", "label": "technical"}
+{"id": "t-0709", "text": "URGENT: I requested a refund of $29.00 2 days ago and it still hasn't shown up on my statement.", "label": "billing"}
+{"id": "t-0710", "text": "Hey team, My account was locked after too many login attempts. Can you unlock it?", "label": "account"}
+{"id": "t-0711", "text": "I keep getting 'Something went wrong' when I try to export a report from the browser extension.", "label": "technical"}
+{"id": "t-0712", "text": "Notifications stopped working on my Galaxy S24 since January.", "label": "technical"}
+{"id": "t-0713", "text": "Hey team, Can you merge my two accounts? I accidentally registered twice.", "label": "account"}
+{"id": "t-0714", "text": "URGENT: I keep getting a blank white screen when I try to export a report from the wireless headphones. Thanks.", "label": "technical"}
+{"id": "t-0715", "text": "Hey team, I was charged $9.99 twice this month for the Team plan. Can you refund the duplicate? Please advise ASAP.", "label": "billing"}
+{"id": "t-0716", "text": "I keep getting a 403 Forbidden message when I try to export a report from the browser extension. Appreciate any help!", "label": "technical"}
+{"id": "t-0717", "text": "I was charged $9.99 twice this month for the Team plan. Can you refund the duplicate? Please advise ASAP.", "label": "billing"}
+{"id": "t-0718", "text": "Order #773662 was supposed to arrive 14 days ago and tracking hasn't updated.", "label": "shipping"}
+{"id": "t-0719", "text": "The promo code didn't apply at checkout and I paid full price ($120). Appreciate any help!", "label": "billing"}
+{"id": "t-0720", "text": "Good morning. I keep getting error code E-1042 when I try to export a report from the API. This is really frustrating.", "label": "technical"}
+{"id": "t-0721", "text": "Hey team, Please change the email address on my account, I no longer have access to the old one. Please advise ASAP.", "label": "account"}
+{"id": "t-0722", "text": "Hi, There's a charge of $19 from you on my statement that I don't recognise.", "label": "billing"}
+{"id": "t-0723", "text": "Notifications stopped working on my iPhone 15 since January. Please advise ASAP.", "label": "technical"}
+{"id": "t-0724", "text": "Hey team, Notifications stopped working on my Pixel 9 since July. Appreciate any help!", "label": "technical"}
+{"id": "t-0725", "text": "I was charged $19 twice this month for the Pro plan. Can you refund the duplicate? Please help.", "label": "billing"}
+{"id": "t-0726", "text": "Hello, Can I switch from monthly to annual billing on the Business plan and get the discount? Appreciate any help!", "label": "billing"}
+{"id": "t-0727", "text": "Good morning. Part of order #533265 is missing from the box. Please help.", "label": "shipping"}
+{"id": "t-0728", "text": "I requested a refund of $120 3 days ago and it still hasn't shown up on my statement. Appreciate any help!", "label": "billing"}
+{"id": "t-0729", "text": "Hi, Search returns no results in the web dashboard even for items I can see in the list. This is really frustrating.", "label": "technical"}
+{"id": "t-0730", "text": "URGENT: I was charged $9.99 twice this month for the Business plan. Can you refund the duplicate?", "label": "billing"}
+{"id": "t-0731", "text": "Hey team, Someone logged into my account from Portland and it wasn't me. Appreciate any help!", "label": "account"}
+{"id": "t-0732", "text": "Can I switch from monthly to annual billing on the Enterprise plan and get the discount?", "label": "billing"}
+{"id": "t-0733", "text": "Good morning. My desktop client arrived with a cracked casing. Order #572445.", "label": "shipping"}
+{"id": "t-0734", "text": "We were billed for 12 seats on Pro but only have 8 users. Please correct the invoice. Please advise ASAP.", "label": "billing"}
+{"id": "t-0735", "text": "URGENT: Is the smart thermostat compatible with Windows 11 laptop? Please help.", "label": "general"}
+{"id": "t-0736", "text": "Good morning. UPS says my package was delivered but I never received it. Order #531257.", "label": "shipping"}
+{"id": "t-0737", "text": "The tracking number for order #678381 doesn't work on the DHL site. Thanks.", "label": "shipping"}
+{"id": "t-0738", "text": "Hello, I received the wrong item in order #632216. Please help.", "label": "shipping"}
+{"id": "t-0739", "text": "Hey team, I signed up with the wrong username. Can it be changed? Please advise ASAP.", "label": "account"}
+{"id": "t-0740", "text": "URGENT: Sync has been stuck at 0% for 10 days on my Windows 11 laptop.", "label": "technical"}
+{"id": "t-0741", "text": "Hello, The tracking number for order #704958 doesn't work on the UPS site.", "label": "shipping"}
+{"id": "t-0742", "text": "URGENT: Please change the email address on my account, I no longer have access to the old one.", "label": "account"}
+{"id": "t-0743", "text": "Hello, The standing desk won't connect to Wi-Fi after the firmware update.", "label": "technical"}
+{"id": "t-0744", "text": "Please change the email address on my account, I no longer have access to the old one. Please help.", "label": "account"}
+{"id": "t-0745", "text": "My web dashboard arrived with a cracked casing. Order #110632.", "label": "shipping"}
+{"id": "t-0746", "text": "Hello, Is there a public roadmap? I'd love to know if an offline mode is planned. Please help.", "label": "general"}
+{"id": "t-0747", "text": "URGENT: Part of order #557244 is missing from the box. Thanks.", "label": "shipping"}
+{"id": "t-0748", "text": "Hi, I lost my phone and can't get past two-factor authentication. This is really frustrating.", "label": "account"}
+{"id": "t-0749", "text": "Hey team, Can you upgrade order #309422 to express delivery? I need it within 14 days. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0750", "text": "URGENT: Can I switch from monthly to annual billing on the Pro plan and get the discount?", "label": "billing"}
+{"id": "t-0751", "text": "Hey team, Why did my card get billed $49 after I cancelled my subscription?", "label": "billing"}
+{"id": "t-0752", "text": "Hi, The promo code didn't apply at checkout and I paid full price ($120). Thanks.", "label": "billing"}
+{"id": "t-0753", "text": "Hi, Can I switch from monthly to annual billing on the Team plan and get the discount? Thanks.", "label": "billing"}
+{"id": "t-0754", "text": "URGENT: How do I update the credit card on file before the next renewal in July? Thanks.", "label": "billing"}
+{"id": "t-0755", "text": "Is the mobile app compatible with Linux desktop?", "label": "general"}
+{"id": "t-0756", "text": "I lost my phone and can't get past two-factor authentication. This is really frustrating.", "label": "account"}
+{"id": "t-0757", "text": "Hi, There's a charge of $249.99 from you on my statement that I don't recognise. This is really frustrating.", "label": "billing"}
+{"id": "t-0758", "text": "Hey team, FedEx says my package was delivered but I never received it. Order #845937. Thanks.", "label": "shipping"}
+{"id": "t-0759", "text": "Search returns no results in the web dashboard even for items I can see in the list. Please advise ASAP.", "label": "technical"}
+{"id": "t-0760", "text": "Hi, Sync has been stuck at 0% for 5 days on my Linux desktop. Please advise ASAP.", "label": "technical"}
+{"id": "t-0761", "text": "Hello, My parcel has been stuck at USPS customs for 3 days.", "label": "shipping"}
+{"id": "t-0762", "text": "Good morning. Dark mode makes the text unreadable in the standing desk on my Pixel 9. Please advise ASAP.", "label": "technical"}
+{"id": "t-0763", "text": "I need to transfer ownership of our Enterprise workspace to a colleague. This is really frustrating.", "label": "account"}
+{"id": "t-0764", "text": "Hello, What's the difference between the Starter plan and the one below it? Thanks.", "label": "general"}
+{"id": "t-0765", "text": "Good morning. The promo code didn't apply at checkout and I paid full price ($29.00). Thanks.", "label": "billing"}
+{"id": "t-0766", "text": "Good morning. The integration with our calendar broke and events are now duplicated. Please help.", "label": "technical"}
+{"id": "t-0767", "text": "URGENT: Search returns no results in the desktop client even for items I can see in the list. Please advise ASAP.", "label": "technical"}
+{"id": "t-0768", "text": "Good morning. I need a VAT invoice for my July payment of $9.99.", "label": "billing"}
+{"id": "t-0769", "text": "Hey team, The promo code didn't apply at checkout and I paid full price ($120). This is really frustrating.", "label": "billing"}
+{"id": "t-0770", "text": "Good morning. Do you ship to Austin, and how long does delivery take?", "label": "shipping"}
+{"id": "t-0771", "text": "URGENT: Can you merge my two accounts? I accidentally registered twice. Please advise ASAP.", "label": "account"}
+{"id": "t-0772", "text": "Hey team, The file upload fails with 'Something went wrong' for anything over 10 MB. Appreciate any help!", "label": "technical"}
+{"id": "t-0773", "text": "Good morning. The promo code didn't apply at checkout and I paid full price ($120). Please help.", "label": "billing"}
+{"id": "t-0774", "text": "Hey team, I requested a refund of $49 2 days ago and it still hasn't shown up on my statement.", "label": "billing"}
+{"id": "t-0775", "text": "URGENT: I need a VAT invoice for my January payment of $29.00.", "label": "billing"}
+{"id": "t-0776", "text": "Hello, Where can I find documentation for getting started with the wireless headphones?", "label": "general"}
+{"id": "t-0777", "text": "Hey team, I need to transfer ownership of our Business workspace to a colleague. This is really frustrating.", "label": "account"}
+{"id": "t-0778", "text": "Hi, My account was locked after too many login attempts. Can you unlock it? Please advise ASAP.", "label": "account"}
+{"id": "t-0779", "text": "Good morning. The integration with our calendar broke and events are now duplicated.", "label": "technical"}
+{"id": "t-0780", "text": "Can I switch from monthly to annual billing on the Team plan and get the discount?", "label": "billing"}
+{"id": "t-0781", "text": "Hi, My invoice for March shows $120 but I downgraded to Enterprise weeks ago. Thanks.", "label": "billing"}
+{"id": "t-0782", "text": "Hi, Why did my card get billed $249.99 after I cancelled my subscription? Please help.", "label": "billing"}
+{"id": "t-0783", "text": "Just wanted to say your support team was fantastic last week. Thanks.", "label": "general"}
+{"id": "t-0784", "text": "The tracking number for order #510191 doesn't work on the Royal Mail site. This is really frustrating.", "label": "shipping"}
+{"id": "t-0785", "text": "Good morning. My parcel has been stuck at UPS customs for 5 days.", "label": "shipping"}
+{"id": "t-0786", "text": "URGENT: I need to transfer ownership of our Business workspace to a colleague.", "label": "account"}
+{"id": "t-0787", "text": "Hello, Dark mode makes the text unreadable in the desktop client on my iPad. Appreciate any help!", "label": "technical"}
+{"id": "t-0788", "text": "Hey team, How do I update the credit card on file before the next renewal in March? Appreciate any help!", "label": "billing"}
+{"id": "t-0789", "text": "Hey team, My payment keeps getting declined even though the card works everywhere else. Thanks.", "label": "billing"}
+{"id": "t-0790", "text": "The web dashboard crashes every time I open the settings page on my Linux desktop. This is really frustrating.", "label": "technical"}
+{"id": "t-0791", "text": "Hi, How do I delete my account and all associated data? Please help.", "label": "account"}
+{"id": "t-0792", "text": "Can you upgrade order #190196 to express delivery? I need it within 3 days.", "label": "shipping"}
+{"id": "t-0793", "text": "Good morning. Dark mode makes the text unreadable in the mobile app on my Linux desktop. Thanks.", "label": "technical"}
+{"id": "t-0794", "text": "The fitness tracker won't connect to Wi-Fi after the firmware update.", "label": "technical"}
+{"id": "t-0795", "text": "Hello, After the latest update the espresso machine is extremely slow in Chrome. Please help.", "label": "technical"}
+{"id": "t-0796", "text": "The tracking number for order #427406 doesn't work on the UPS site.", "label": "shipping"}
+{"id": "t-0797", "text": "Do you offer a discount for non-profits or students? Thanks.", "label": "general"}
+{"id": "t-0798", "text": "What's the difference between the Starter plan and the one below it? This is really frustrating.", "label": "general"}
+{"id": "t-0799", "text": "Hi, Notifications stopped working on my Windows 11 laptop since November.", "label": "technical"}
+{"id": "t-0800", "text": "I requested a refund of $79.50 10 days ago and it still hasn't shown up on my statement. Appreciate any help!", "label": "billing"}
+{"id": "t-0801", "text": "Hi, Order #557729 was supposed to arrive 7 days ago and tracking hasn't updated. Thanks.", "label": "shipping"}
+{"id": "t-0802", "text": "I was charged $19 twice this month for the Starter plan. Can you refund the duplicate?", "label": "billing"}
+{"id": "t-0803", "text": "Search returns no results in the standing desk even for items I can see in the list.", "label": "technical"}
+{"id": "t-0804", "text": "Hello, There's a charge of $19 from you on my statement that I don't recognise. Thanks.", "label": "billing"}
+{"id": "t-0805", "text": "Sync has been stuck at 0% for 5 days on my Galaxy S24. Thanks.", "label": "technical"}
+{"id": "t-0806", "text": "UPS says my package was delivered but I never received it. Order #415005. Please help.", "label": "shipping"}
+{"id": "t-0807", "text": "URGENT: Can someone from sales give us a demo next week?", "label": "general"}
+{"id": "t-0808", "text": "Hey team, I can't log in. The password reset email never arrives. Appreciate any help!", "label": "account"}
+{"id": "t-0809", "text": "Hello, Part of order #695908 is missing from the box.", "label": "shipping"}
+{"id": "t-0810", "text": "URGENT: Do you ship to Sydney, and how long does delivery take?", "label": "shipping"}
+{"id": "t-0811", "text": "Hello, Do you have a partner or affiliate programme?", "label": "general"}
+{"id": "t-0812", "text": "The tracking number for order #328424 doesn't work on the UPS site.", "label": "shipping"}
+{"id": "t-0813", "text": "Just wanted to say your support team was fantastic last week. Please help.", "label": "general"}
+{"id": "t-0814", "text": "How do I add a second admin user to our Team team?", "label": "account"}
+{"id": "t-0815", "text": "Hey team, The API crashes every time I open the settings page on my Linux desktop. Please advise ASAP.", "label": "technical"}
+{"id": "t-0816", "text": "Can someone from sales give us a demo next week? Appreciate any help!", "label": "general"}
+{"id": "t-0817", "text": "There's a charge of $79.50 from you on my statement that I don't recognise. This is really frustrating.", "label": "billing"}
+{"id": "t-0818", "text": "Hi, Do you have a partner or affiliate programme? This is really frustrating.", "label": "general"}
+{"id": "t-0819", "text": "Good morning. I need to transfer ownership of our Pro workspace to a colleague. Thanks.", "label": "account"}
+{"id": "t-0820", "text": "Hello, Can you upgrade order #244850 to express delivery? I need it within 3 days. Please help.", "label": "shipping"}
+{"id": "t-0821", "text": "How do I delete my account and all associated data? This is really frustrating.", "label": "account"}
+{"id": "t-0822", "text": "I requested a refund of $49 5 days ago and it still hasn't shown up on my statement.", "label": "billing"}
+{"id": "t-0823", "text": "Hello, I need a VAT invoice for my March payment of $249.99.", "label": "billing"}
+{"id": "t-0824", "text": "Good morning. I'd like to export my personal data under GDPR. Appreciate any help!", "label": "account"}
+{"id": "t-0825", "text": "Good morning. I need to transfer ownership of our Pro workspace to a colleague. Appreciate any help!", "label": "account"}
+{"id": "t-0826", "text": "URGENT: I can't log in. The password reset email never arrives. Please help.", "label": "account"}
+{"id": "t-0827", "text": "Hi, I signed up with the wrong username. Can it be changed?", "label": "account"}
+{"id": "t-0828", "text": "USPS says my package was delivered but I never received it. Order #409268. This is really frustrating.", "label": "shipping"}
+{"id": "t-0829", "text": "Hey team, UPS says my package was delivered but I never received it. Order #862693.", "label": "shipping"}
+{"id": "t-0830", "text": "Is the smart thermostat compatible with Galaxy S24? Please advise ASAP.", "label": "general"}
+{"id": "t-0831", "text": "Hello, After the latest update the espresso machine is extremely slow in Safari. This is really frustrating.", "label": "technical"}
+{"id": "t-0832", "text": "After the latest update the standing desk is extremely slow in Safari. Appreciate any help!", "label": "technical"}
+{"id": "t-0833", "text": "Hi, I requested a refund of $79.50 3 days ago and it still hasn't shown up on my statement. Please advise ASAP.", "label": "billing"}
+{"id": "t-0834", "text": "Good morning. Part of order #474475 is missing from the box. Please help.", "label": "shipping"}
+{"id": "t-0835", "text": "Good morning. Why did my card get billed $249.99 after I cancelled my subscription? Please advise ASAP.", "label": "billing"}
+{"id": "t-0836", "text": "Hello, I was charged $120 twice this month for the Business plan. Can you refund the duplicate? Please help.", "label": "billing"}
+{"id": "t-0837", "text": "Hey team, Can I switch from monthly to annual billing on the Enterprise plan and get the discount?", "label": "billing"}
+{"id": "t-0838", "text": "Hey team, Why did my card get billed $29.00 after I cancelled my subscription? Please advise ASAP.", "label": "billing"}
+{"id": "t-0839", "text": "I'd like to return order #517267. How do I get a return label?", "label": "shipping"}
+{"id": "t-0840", "text": "URGENT: Someone logged into my account from Portland and it wasn't me.", "label": "account"}
+{"id": "t-0841", "text": "I lost my phone and can't get past two-factor authentication. Appreciate any help!", "label": "account"}
+{"id": "t-0842", "text": "Hello, I keep getting a timeout error when I try to export a report from the fitness tracker. This is really frustrating.", "label": "technical"}
+{"id": "t-0843", "text": "Hi, Part of order #659104 is missing from the box. Appreciate any help!", "label": "shipping"}
+{"id": "t-0844", "text": "Good morning. I need a VAT invoice for my March payment of $29.00. Please advise ASAP.", "label": "billing"}
+{"id": "t-0845", "text": "Hi, I'd like to return order #317770. How do I get a return label?", "label": "shipping"}
+{"id": "t-0846", "text": "Hello, The wireless headphones won't connect to Wi-Fi after the firmware update. Please advise ASAP.", "label": "technical"}
+{"id": "t-0847", "text": "Good morning. The integration with our calendar broke and events are now duplicated. This is really frustrating.", "label": "technical"}
+{"id": "t-0848", "text": "Hi, Search returns no results in the browser extension even for items I can see in the list. Please advise ASAP.", "label": "technical"}
+{"id": "t-0849", "text": "Hello, The desktop client crashes every time I open the settings page on my iPhone 15. Thanks.", "label": "technical"}
+{"id": "t-0850", "text": "Hi, Dark mode makes the text unreadable in the web dashboard on my iPhone 15. Please advise ASAP.", "label": "technical"}
+{"id": "t-0851", "text": "Hi, There's a charge of $29.00 from you on my statement that I don't recognise.", "label": "billing"}
+{"id": "t-0852", "text": "URGENT: I have a feature suggestion: let us pin favourite items to the top. This is really frustrating.", "label": "general"}
+{"id": "t-0853", "text": "Hey team, How do I add a second admin user to our Enterprise team? Please help.", "label": "account"}
+{"id": "t-0854", "text": "URGENT: Is there a public roadmap? I'd love to know if an offline mode is planned. This is really frustrating.", "label": "general"}
+{"id": "t-0855", "text": "Hey team, I'd like to return order #996922. How do I get a return label? Appreciate any help!", "label": "shipping"}
+{"id": "t-0856", "text": "After the latest update the fitness tracker is extremely slow in Chrome. Please help.", "label": "technical"}
+{"id": "t-0857", "text": "URGENT: How do I add a second admin user to our Team team?", "label": "account"}
+{"id": "t-0858", "text": "How do I add a second admin user to our Enterprise team? Please advise ASAP.", "label": "account"}
+{"id": "t-0859", "text": "Where can I find documentation for getting started with the mobile app?", "label": "general"}
+{"id": "t-0860", "text": "Hello, Order #983031 was supposed to arrive 3 days ago and tracking hasn't updated. Please help.", "label": "shipping"}
+{"id": "t-0861", "text": "Hello, How do I delete my account and all associated data? Thanks.", "label": "account"}
+{"id": "t-0862", "text": "Good morning. Dark mode makes the text unreadable in the browser extension on my MacBook Air.", "label": "technical"}
+{"id": "t-0863", "text": "Hi, The promo code didn't apply at checkout and I paid full price ($19). Please advise ASAP.", "label": "billing"}
+{"id": "t-0864", "text": "The file upload fails with Error 500 for anything over 10 MB.", "label": "technical"}
+{"id": "t-0865", "text": "My standing desk arrived with a cracked casing. Order #673338. This is really frustrating.", "label": "shipping"}
+{"id": "t-0866", "text": "Hey team, What's the difference between the Enterprise plan and the one below it? This is really frustrating.", "label": "general"}
+{"id": "t-0867", "text": "Order #721885 was supposed to arrive 10 days ago and tracking hasn't updated.", "label": "shipping"}
+{"id": "t-0868", "text": "My account was locked after too many login attempts. Can you unlock it? Please advise ASAP.", "label": "account"}
+{"id": "t-0869", "text": "Hi, My wireless headphones arrived with a cracked casing. Order #184279. Thanks.", "label": "shipping"}
+{"id": "t-0870", "text": "URGENT: I'd like to return order #204766. How do I get a return label? Thanks.", "label": "shipping"}
+{"id": "t-0871", "text": "Hello, Do you ship to Leeds, and how long does delivery take? Appreciate any help!", "label": "shipping"}
+{"id": "t-0872", "text": "Hey team, Just wanted to say your support team was fantastic last week. Please advise ASAP.", "label": "general"}
+{"id": "t-0873", "text": "How do I delete my account and all associated data? Thanks.", "label": "account"}
+{"id": "t-0874", "text": "I'd like to export my personal data under GDPR. Appreciate any help!", "label": "account"}
+{"id": "t-0875", "text": "URGENT: I requested a refund of $19 10 days ago and it still hasn't shown up on my statement.", "label": "billing"}
+{"id": "t-0876", "text": "Hey team, I need to transfer ownership of our Team workspace to a colleague.", "label": "account"}
+{"id": "t-0877", "text": "Hi, Notifications stopped working on my Linux desktop since January. This is really frustrating.", "label": "technical"}
+{"id": "t-0878", "text": "Hello, Do you ship to Austin, and how long does delivery take? Appreciate any help!", "label": "shipping"}
+{"id": "t-0879", "text": "I received the wrong item in order #883041. Appreciate any help!", "label": "shipping"}
+{"id": "t-0880", "text": "Good morning. How do I update the credit card on file before the next renewal in November? Thanks.", "label": "billing"}
+{"id": "t-0881", "text": "URGENT: Order #385925 was supposed to arrive 10 days ago and tracking hasn't updated. Thanks.", "label": "shipping"}
+{"id": "t-0882", "text": "Hi, Can I switch from monthly to annual billing on the Pro plan and get the discount?", "label": "billing"}
+{"id": "t-0883", "text": "Hello, Someone logged into my account from Portland and it wasn't me. Appreciate any help!", "label": "account"}
+{"id": "t-0884", "text": "Hello, The promo code didn't apply at checkout and I paid full price ($120). Please advise ASAP.", "label": "billing"}
+{"id": "t-0885", "text": "Hello, Order #902097 was supposed to arrive 10 days ago and tracking hasn't updated. This is really frustrating.", "label": "shipping"}
+{"id": "t-0886", "text": "Hello, I see a blank white screen in Chrome but it works fine in a private window.", "label": "technical"}
+{"id": "t-0887", "text": "The file upload fails with 'Something went wrong' for anything over 10 MB. Please advise ASAP.", "label": "technical"}
+{"id": "t-0888", "text": "URGENT: Is there a public roadmap? I'd love to know if an offline mode is planned. Please help.", "label": "general"}
+{"id": "t-0889", "text": "URGENT: I requested a refund of $249.99 7 days ago and it still hasn't shown up on my statement. Thanks.", "label": "billing"}
+{"id": "t-0890", "text": "Hey team, I was charged $19 twice this month for the Pro plan. Can you refund the duplicate? Thanks.", "label": "billing"}
+{"id": "t-0891", "text": "Good morning. Sync has been stuck at 0% for 2 days on my MacBook Air. Please advise ASAP.", "label": "technical"}
+{"id": "t-0892", "text": "Good morning. Search returns no results in the desktop client even for items I can see in the list. Thanks.", "label": "technical"}
+{"id": "t-0893", "text": "My invoice for July shows $249.99 but I downgraded to Business weeks ago. This is really frustrating.", "label": "billing"}
+{"id": "t-0894", "text": "Good morning. My parcel has been stuck at UPS customs for 7 days. Appreciate any help!", "label": "shipping"}
+{"id": "t-0895", "text": "Hey team, We were billed for 12 seats on Pro but only have 8 users. Please correct the invoice.", "label": "billing"}
+{"id": "t-0896", "text": "Hey team, Notifications stopped working on my MacBook Air since November. Please help.", "label": "technical"}
+{"id": "t-0897", "text": "Hi, Order #402441 was supposed to arrive 5 days ago and tracking hasn't updated. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0898", "text": "I see 'Something went wrong' in Chrome but it works fine in a private window. Please help.", "label": "technical"}
+{"id": "t-0899", "text": "Hi, Do you ship to Austin, and how long does delivery take? Please help.", "label": "shipping"}
+{"id": "t-0900", "text": "Dark mode makes the text unreadable in the API on my Linux desktop. Thanks.", "label": "technical"}
+{"id": "t-0901", "text": "My fitness tracker arrived with a cracked casing. Order #578219. Please help.", "label": "shipping"}
+{"id": "t-0902", "text": "Hi, Just wanted to say your support team was fantastic last week. This is really frustrating.", "label": "general"}
+{"id": "t-0903", "text": "Hi, I'd like to return order #187436. How do I get a return label?", "label": "shipping"}
+{"id": "t-0904", "text": "Hi, I have a feature suggestion: let us pin favourite items to the top. This is really frustrating.", "label": "general"}
+{"id": "t-0905", "text": "Hello, We were billed for 12 seats on Business but only have 8 users. Please correct the invoice. Please help.", "label": "billing"}
+{"id": "t-0906", "text": "I need to transfer ownership of our Business workspace to a colleague. Thanks.", "label": "account"}
+{"id": "t-0907", "text": "I need a VAT invoice for my January payment of $29.00. Please advise ASAP.", "label": "billing"}
+{"id": "t-0908", "text": "URGENT: I see a timeout error in Safari but it works fine in a private window. Please help.", "label": "technical"}
+{"id": "t-0909", "text": "Good morning. The file upload fails with 'Something went wrong' for anything over 10 MB. Please help.", "label": "technical"}
+{"id": "t-0910", "text": "Good morning. My fitness tracker arrived with a cracked casing. Order #944492. Please help.", "label": "shipping"}
+{"id": "t-0911", "text": "Hey team, I requested a refund of $120 14 days ago and it still hasn't shown up on my statement. Thanks.", "label": "billing"}
+{"id": "t-0912", "text": "Good morning. I see a 403 Forbidden message in Safari but it works fine in a private window.", "label": "technical"}
+{"id": "t-0913", "text": "Hey team, I received the wrong item in order #459338. This is really frustrating.", "label": "shipping"}
+{"id": "t-0914", "text": "Hey team, DHL says my package was delivered but I never received it. Order #909606. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0915", "text": "Hello, I received the wrong item in order #838260.", "label": "shipping"}
+{"id": "t-0916", "text": "URGENT: The web dashboard crashes every time I open the settings page on my Linux desktop.", "label": "technical"}
+{"id": "t-0917", "text": "URGENT: How do I update the credit card on file before the next renewal in July?", "label": "billing"}
+{"id": "t-0918", "text": "Hey team, I need a VAT invoice for my September payment of $49.", "label": "billing"}
+{"id": "t-0919", "text": "Hey team, The file upload fails with 'Something went wrong' for anything over 10 MB. Thanks.", "label": "technical"}
+{"id": "t-0920", "text": "URGENT: I keep getting a blank white screen when I try to export a report from the API.", "label": "technical"}
+{"id": "t-0921", "text": "USPS says my package was delivered but I never received it. Order #718887.", "label": "shipping"}
+{"id": "t-0922", "text": "URGENT: Do you have a partner or affiliate programme? Thanks.", "label": "general"}
+{"id": "t-0923", "text": "URGENT: The web dashboard won't connect to Wi-Fi after the firmware update.", "label": "technical"}
+{"id": "t-0924", "text": "Good morning. Someone logged into my account from Austin and it wasn't me.", "label": "account"}
+{"id": "t-0925", "text": "How do I add a second admin user to our Starter team?", "label": "account"}
+{"id": "t-0926", "text": "Can someone from sales give us a demo next week? Please advise ASAP.", "label": "general"}
+{"id": "t-0927", "text": "Hey team, I was charged $49 twice this month for the Starter plan. Can you refund the duplicate?", "label": "billing"}
+{"id": "t-0928", "text": "Can I change the delivery address for order #465603? I'm moving to Austin. Appreciate any help!", "label": "shipping"}
+{"id": "t-0929", "text": "We were billed for 12 seats on Business but only have 8 users. Please correct the invoice. Please help.", "label": "billing"}
+{"id": "t-0930", "text": "Good morning. I'd like to return order #201080. How do I get a return label? Thanks.", "label": "shipping"}
+{"id": "t-0931", "text": "Hi, I keep getting 'Something went wrong' when I try to export a report from the API. Thanks.", "label": "technical"}
+{"id": "t-0932", "text": "Good morning. Can you upgrade order #112281 to express delivery? I need it within 2 days. This is really frustrating.", "label": "shipping"}
+{"id": "t-0933", "text": "Hello, The file upload fails with a 403 Forbidden message for anything over 10 MB.", "label": "technical"}
+{"id": "t-0934", "text": "Hi, I lost my phone and can't get past two-factor authentication.", "label": "account"}
+{"id": "t-0935", "text": "The integration with our calendar broke and events are now duplicated. Please advise ASAP.", "label": "technical"}
+{"id": "t-0936", "text": "Hi, The web dashboard won't connect to Wi-Fi after the firmware update. Please help.", "label": "technical"}
+{"id": "t-0937", "text": "I was charged $49 twice this month for the Team plan. Can you refund the duplicate? Please help.", "label": "billing"}
+{"id": "t-0938", "text": "Hi, Is there a public roadmap? I'd love to know if an offline mode is planned. Appreciate any help!", "label": "general"}
+{"id": "t-0939", "text": "I keep getting a blank white screen when I try to export a report from the wireless headphones. Thanks.", "label": "technical"}
+{"id": "t-0940", "text": "Hi, I'd like to return order #727516. How do I get a return label? This is really frustrating.", "label": "shipping"}
+{"id": "t-0941", "text": "Hello, Someone logged into my account from Leeds and it wasn't me.", "label": "account"}
+{"id": "t-0942", "text": "Hey team, Can you upgrade order #192875 to express delivery? I need it within 14 days. Thanks.", "label": "shipping"}
+{"id": "t-0943", "text": "Hello, The tracking number for order #444802 doesn't work on the DHL site. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0944", "text": "The promo code didn't apply at checkout and I paid full price ($120). This is really frustrating.", "label": "billing"}
+{"id": "t-0945", "text": "Good morning. Can I switch from monthly to annual billing on the Team plan and get the discount? This is really frustrating.", "label": "billing"}
+{"id": "t-0946", "text": "URGENT: I'd like to export my personal data under GDPR. Please advise ASAP.", "label": "account"}
+{"id": "t-0947", "text": "Is there a public roadmap? I'd love to know if an offline mode is planned. Please advise ASAP.", "label": "general"}
+{"id": "t-0948", "text": "How do I update the credit card on file before the next renewal in September? Thanks.", "label": "billing"}
+{"id": "t-0949", "text": "I requested a refund of $120 7 days ago and it still hasn't shown up on my statement. Appreciate any help!", "label": "billing"}
+{"id": "t-0950", "text": "Hello, We were billed for 12 seats on Enterprise but only have 8 users. Please correct the invoice.", "label": "billing"}
+{"id": "t-0951", "text": "Good morning. Can you upgrade order #121783 to express delivery? I need it within 3 days. This is really frustrating.", "label": "shipping"}
+{"id": "t-0952", "text": "Hey team, I received the wrong item in order #883068. Please help.", "label": "shipping"}
+{"id": "t-0953", "text": "Can I change the delivery address for order #967641? I'm moving to Toronto.", "label": "shipping"}
+{"id": "t-0954", "text": "Hi, Can someone from sales give us a demo next week? This is really frustrating.", "label": "general"}
+{"id": "t-0955", "text": "How do I add a second admin user to our Starter team? Please advise ASAP.", "label": "account"}
+{"id": "t-0956", "text": "URGENT: I'd like to return order #726774. How do I get a return label?", "label": "shipping"}
+{"id": "t-0957", "text": "Hey team, My API arrived with a cracked casing. Order #526919.", "label": "shipping"}
+{"id": "t-0958", "text": "URGENT: The mobile app won't connect to Wi-Fi after the firmware update. Appreciate any help!", "label": "technical"}
+{"id": "t-0959", "text": "DHL says my package was delivered but I never received it. Order #623954. Please help.", "label": "shipping"}
+{"id": "t-0960", "text": "I received the wrong item in order #649314.", "label": "shipping"}
+{"id": "t-0961", "text": "Hey team, Do you offer a discount for non-profits or students?", "label": "general"}
+{"id": "t-0962", "text": "Hey team, I see a 403 Forbidden message in Firefox but it works fine in a private window.", "label": "technical"}
+{"id": "t-0963", "text": "Hello, I received the wrong item in order #946415.", "label": "shipping"}
+{"id": "t-0964", "text": "URGENT: How do I add a second admin user to our Enterprise team? This is really frustrating.", "label": "account"}
+{"id": "t-0965", "text": "Can I switch from monthly to annual billing on the Starter plan and get the discount? This is really frustrating.", "label": "billing"}
+{"id": "t-0966", "text": "Do you have a partner or affiliate programme? This is really frustrating.", "label": "general"}
+{"id": "t-0967", "text": "Good morning. The integration with our calendar broke and events are now duplicated. Appreciate any help!", "label": "technical"}
+{"id": "t-0968", "text": "There's a charge of $9.99 from you on my statement that I don't recognise. Please advise ASAP.", "label": "billing"}
+{"id": "t-0969", "text": "How do I update the credit card on file before the next renewal in November?", "label": "billing"}
+{"id": "t-0970", "text": "The tracking number for order #489843 doesn't work on the DHL site.", "label": "shipping"}
+{"id": "t-0971", "text": "The fitness tracker won't connect to Wi-Fi after the firmware update. Appreciate any help!", "label": "technical"}
+{"id": "t-0972", "text": "The tracking number for order #826163 doesn't work on the USPS site. This is really frustrating.", "label": "shipping"}
+{"id": "t-0973", "text": "Hello, Sync has been stuck at 0% for 2 days on my iPhone 15. Appreciate any help!", "label": "technical"}
+{"id": "t-0974", "text": "I keep getting a timeout error when I try to export a report from the espresso machine. Thanks.", "label": "technical"}
+{"id": "t-0975", "text": "Hey team, Can I change the delivery address for order #905882? I'm moving to Dublin.", "label": "shipping"}
+{"id": "t-0976", "text": "Is the mobile app compatible with Pixel 9? Please help.", "label": "general"}
+{"id": "t-0977", "text": "Hey team, Sync has been stuck at 0% for 2 days on my Galaxy S24. Please advise ASAP.", "label": "technical"}
+{"id": "t-0978", "text": "Hi, My payment keeps getting declined even though the card works everywhere else. This is really frustrating.", "label": "billing"}
+{"id": "t-0979", "text": "Where can I find documentation for getting started with the browser extension? Appreciate any help!", "label": "general"}
+{"id": "t-0980", "text": "Hi, I signed up with the wrong username. Can it be changed? Appreciate any help!", "label": "account"}
+{"id": "t-0981", "text": "Hey team, The file upload fails with a timeout error for anything over 10 MB. Appreciate any help!", "label": "technical"}
+{"id": "t-0982", "text": "URGENT: Search returns no results in the espresso machine even for items I can see in the list. Please advise ASAP.", "label": "technical"}
+{"id": "t-0983", "text": "Hi, I can't log in. The password reset email never arrives. Thanks.", "label": "account"}
+{"id": "t-0984", "text": "Someone logged into my account from Austin and it wasn't me. Please help.", "label": "account"}
+{"id": "t-0985", "text": "Hey team, I have a feature suggestion: let us pin favourite items to the top.", "label": "general"}
+{"id": "t-0986", "text": "Hi, Why did my card get billed $9.99 after I cancelled my subscription? Please help.", "label": "billing"}
+{"id": "t-0987", "text": "The promo code didn't apply at checkout and I paid full price ($29.00).", "label": "billing"}
+{"id": "t-0988", "text": "Hi, Notifications stopped working on my iPad since September.", "label": "technical"}
+{"id": "t-0989", "text": "Hey team, The standing desk crashes every time I open the settings page on my Pixel 9. This is really frustrating.", "label": "technical"}
+{"id": "t-0990", "text": "Good morning. Can you upgrade order #471942 to express delivery? I need it within 14 days.", "label": "shipping"}
+{"id": "t-0991", "text": "We were billed for 12 seats on Team but only have 8 users. Please correct the invoice. Please advise ASAP.", "label": "billing"}
+{"id": "t-0992", "text": "URGENT: Is the mobile app compatible with iPhone 15?", "label": "general"}
+{"id": "t-0993", "text": "The file upload fails with a 403 Forbidden message for anything over 10 MB.", "label": "technical"}
+{"id": "t-0994", "text": "Hi, We were billed for 12 seats on Business but only have 8 users. Please correct the invoice. This is really frustrating.", "label": "billing"}
+{"id": "t-0995", "text": "I keep getting error code E-1042 when I try to export a report from the standing desk. Thanks.", "label": "technical"}
+{"id": "t-0996", "text": "Good morning. Can I switch from monthly to annual billing on the Enterprise plan and get the discount? Please advise ASAP.", "label": "billing"}
+{"id": "t-0997", "text": "URGENT: Do you ship to Dublin, and how long does delivery take? This is really frustrating.", "label": "shipping"}
+{"id": "t-0998", "text": "Order #539979 was supposed to arrive 7 days ago and tracking hasn't updated. Please advise ASAP.", "label": "shipping"}
+{"id": "t-0999", "text": "URGENT: Order #199453 was supposed to arrive 2 days ago and tracking hasn't updated. This is really frustrating.", "label": "shipping"}
+{"id": "t-1000", "text": "Hi, After the latest update the browser extension is extremely slow in Safari. This is really frustrating.", "label": "technical"}

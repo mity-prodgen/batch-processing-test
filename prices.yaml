@@ -1,0 +1,25 @@
+# Models and list prices used by the harness. USD per 1,000,000 tokens.
+# Last checked against the provider pricing pages on 2026-11-11.
+# Re-check the `source` URLs before publishing numbers; edit here, then run
+# `python report.py` to recompute costs from the recorded token counts.
+
+anthropic:
+  model: claude-haiku-4-5
+  source: https://platform.claude.com/docs/en/about-claude/pricing
+  standard: {input: 1.00, output: 5.00}
+  batch: {input: 0.50, output: 2.50}
+
+openai:
+  model: gpt-5.4-mini
+  source: https://developers.openai.com/api/docs/pricing
+  standard: {input: 0.75, output: 4.50}
+  batch: {input: 0.375, output: 2.25}
+
+gemini:
+  model: gemini-3.8-flash
+  source: https://aistudio.google.com/docs/pricing
+  # Promotional paid-tier price "through December 31, 2026"; the page lists
+  # double these rates (1.50 / 7.50 standard, 0.75 / 3.75 batch) from 2027-01-01.
+  # Output price includes thinking tokens.
+  standard: {input: 0.75, output: 3.75}
+  batch: {input: 0.375, output: 1.875}

@@ -1,0 +1,45 @@
+{
+  "openai": {
+    "model": "gpt-5.4-mini",
+    "status": "done",
+    "n": 1000,
+    "batch_id": "batch_6af4e1a6c14c819089c156ea775e6202",
+    "submitted_at": "2026-11-11T21:44:06+00:00",
+    "final_status": "completed",
+    "counts": {
+      "completed": 1000,
+      "failed": 0,
+      "total": 1000
+    },
+    "observed_done_at": "2026-11-11T21:47:55+00:00",
+    "completed_at": "2026-11-11T21:47:45+00:00"
+  },
+  "gemini": {
+    "model": "gemini-3.8-flash",
+    "status": "done",
+    "n": 1000,
+    "batch_id": "batches/g0u2crjreuw9lfadjhdq9io00su5d17igt4t",
+    "submitted_at": "2026-11-11T21:44:49+00:00",
+    "final_status": "JOB_STATE_SUCCEEDED",
+    "counts": {},
+    "observed_done_at": "2026-11-11T21:47:56+00:00",
+    "completed_at": "2026-11-11T21:47:39+00:00"
+  },
+  "anthropic": {
+    "model": "claude-haiku-4-5",
+    "status": "done",
+    "n": 1000,
+    "batch_id": "msgbatch_01CGZ1zNNw3EURxRZiRKKwAh",
+    "submitted_at": "2026-11-12T04:21:19+00:00",
+    "final_status": "ended",
+    "counts": {
+      "canceled": 0,
+      "errored": 0,
+      "expired": 0,
+      "processing": 0,
+      "succeeded": 1000
+    },
+    "observed_done_at": "2026-11-12T04:24:52+00:00",
+    "completed_at": "2026-11-12T04:24:22+00:00"
+  }
+}
