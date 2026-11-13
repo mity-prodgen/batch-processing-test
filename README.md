@@ -139,3 +139,7 @@ report.py      summary.md from recorded results + prices.yaml
 dataset.py     synthetic ticket generator
 prices.yaml    models and per-token prices, with sources
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
